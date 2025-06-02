@@ -118,26 +118,48 @@ def test_epoch(model, test_data_loaders):
     model.eval()
 
     # define test recorder
-    metrics_all_datasets = {}
+    results_all_datasets = {}
 
     # testing for all test data
     keys = test_data_loaders.keys()
     for key in keys:
         data_dict = test_data_loaders[key].dataset.data_dict
-        # compute loss for each dataset
-        predictions_nps, label_nps,feat_nps = test_one_dataset(model, test_data_loaders[key])
+        # compute predictions for each dataset
+        predictions_nps, label_nps, feat_nps = test_one_dataset(model, test_data_loaders[key])
         
-        # compute metric for each dataset
-        metric_one_dataset = get_test_metrics(y_pred=predictions_nps, y_true=label_nps,
-                                              img_names=data_dict['image'])
-        metrics_all_datasets[key] = metric_one_dataset
+        # Debugging: Print predictions and labels
+        print(f"Dataset: {key}")
+        print(f"Predictions: {predictions_nps}")
+        # Write predictions to a file
+        os.makedirs("predictions", exist_ok=True)
+        with open(f"predictions/predictions_{key}.txt", "w") as f:
+            for prediction in predictions_nps:
+                f.write(f"{prediction}\n")
+        print(f"Labels: {label_nps}")
+        print(f"Number of Predictions: {len(predictions_nps)}, Number of Labels: {len(label_nps)}")
+
+        # Check for single-class labels
+        if len(np.unique(label_nps)) == 1:
+            print(f"Warning: Dataset {key} contains only one class ({np.unique(label_nps)[0]}). Metrics may not be meaningful.")
+            # Compute simple statistics
+            mean_confidence = np.mean(predictions_nps)
+            print(f"Mean confidence for dataset {key}: {mean_confidence}")
+            results_all_datasets[key] = {
+                "mean_confidence": mean_confidence,
+                "predictions": predictions_nps.tolist(),  # Save predictions for analysis
+            }
+        else:
+            # Compute metrics for multi-class datasets
+            metric_one_dataset = get_test_metrics(y_pred=predictions_nps, y_true=label_nps,
+                                                  img_names=data_dict['image'])
+            results_all_datasets[key] = metric_one_dataset
         
-        # info for each dataset
+        # Save results for each dataset
         tqdm.write(f"dataset: {key}")
-        for k, v in metric_one_dataset.items():
+        for k, v in results_all_datasets[key].items():
             tqdm.write(f"{k}: {v}")
 
-    return metrics_all_datasets
+    return results_all_datasets
 
 @torch.no_grad()
 def inference(model, data_dict):

@@ -69,8 +69,29 @@ from tqdm import tqdm
 from pathlib import Path
 from imutils import face_utils
 from skimage import transform as trans
+import matplotlib.pyplot as plt
+def visualize_and_save_landmarks(image, landmarks, save_path):
+    """
+    Visualize landmarks on the given image and save the result.
 
+    Args:
+        image (numpy.ndarray): The image on which to draw landmarks.
+        landmarks (numpy.ndarray): The landmarks to visualize.
+        save_path (Path): Path to save the visualized image.
+    """
+    # Convert the image to RGB for visualization
+    image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
+    # Plot the image with landmarks
+    plt.figure(figsize=(8, 8))
+    plt.imshow(image_rgb)
+    plt.scatter(landmarks[:, 0], landmarks[:, 1], c='red', s=10)  # Draw landmarks as red dots
+    plt.title("Landmarks Visualization")
+    plt.axis("off")
+    
+    # Save the visualization
+    plt.savefig(str(save_path))
+    plt.close()
 def create_logger(log_path):
     """
     Creates a logger object and saves all messages to a file.
@@ -99,7 +120,99 @@ def create_logger(log_path):
     logger.addHandler(sh)
 
     return logger
+def preprocess_lfw(dataset_path, logger):
+    """
+    Preprocess LFW images (all real) for testing.
+    """
+    face_detector = dlib.get_frontal_face_detector()
+    predictor_path = './dlib_tools/shape_predictor_81_face_landmarks.dat'
+    if not os.path.exists(predictor_path):
+        logger.error(f"Predictor path does not exist: {predictor_path}")
+        sys.exit()
+    face_predictor = dlib.shape_predictor(predictor_path)
+    # Get all image paths   
+    image_paths = sorted([Path(p) for p in glob.glob(os.path.join(dataset_path, '*.jpg'))])
+    if len(image_paths) == 0:
+        logger.error(f"No images found in {dataset_path}")
+        sys.exit()
+    logger.info(f"{len(image_paths)} images found in {dataset_path}")
+    # Create output directory for processed images
+    output_dir = Path('./processed_images/LFW')
+    output_dir.mkdir(parents=True, exist_ok=True)
+    visualization_dir = Path('./processed_images/LFW_visualizations')
+    visualization_dir.mkdir(parents=True, exist_ok=True)
+    for idx,image_path in enumerate(tqdm(image_paths)):
+        try:
+            # Load the image
+            image = cv2.imread(str(image_path))
+            if image is None:
+                logger.warning(f"Failed to read image {image_path}")
+                continue
 
+            # Detect and crop the face
+            cropped_face, landmarks, _ = extract_aligned_face_dlib(face_detector, face_predictor, image)
+            if cropped_face is None:
+                logger.warning(f"No face detected in {image_path}")
+                continue
+            if landmarks is not None and idx < 75:
+                visualize_path = visualization_dir / f"visualized_{image_path.name}"
+                visualize_and_save_landmarks(image, landmarks, visualize_path)
+
+            # Save the cropped face
+            save_path = output_dir / image_path.name
+            cv2.imwrite(str(save_path), cropped_face)
+
+        except Exception as e:
+            logger.error(f"Error processing image {image_path}: {e}")
+
+
+def preprocess_diffusiondb(dataset_path, logger):
+    """
+    Preprocess Diffusion DB images (all fake) for testing.
+
+    Args:
+        dataset_path (str): Path to the Diffusion DB dataset.
+        logger (logging.Logger): Logger for logging messages.
+    """
+    # Initialize face detector and predictor
+    face_detector = dlib.get_frontal_face_detector()
+    predictor_path = './dlib_tools/shape_predictor_81_face_landmarks.dat'
+    if not os.path.exists(predictor_path):
+        logger.error(f"Predictor path does not exist: {predictor_path}")
+        sys.exit()
+    face_predictor = dlib.shape_predictor(predictor_path)
+
+    # Get all image paths
+    image_paths = sorted([Path(p) for p in glob.glob(os.path.join(dataset_path, '*.png'))])
+    if len(image_paths) == 0:
+        logger.error(f"No images found in {dataset_path}")
+        sys.exit()
+    logger.info(f"{len(image_paths)} images found in {dataset_path}")
+
+    # Create output directory for processed images
+    output_dir = Path('./processed_images/DiffusionDB')
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    for image_path in tqdm(image_paths):
+        try:
+            # Load the image
+            image = cv2.imread(str(image_path))
+            if image is None:
+                logger.warning(f"Failed to read image {image_path}")
+                continue
+
+            # Detect and crop the face
+            cropped_face, landmarks, _ = extract_aligned_face_dlib(face_detector, face_predictor, image)
+            if cropped_face is None:
+                logger.warning(f"No face detected in {image_path}")
+                continue
+
+            # Save the cropped face
+            save_path = output_dir / image_path.name
+            cv2.imwrite(str(save_path), cropped_face)
+
+        except Exception as e:
+            logger.error(f"Error processing image {image_path}: {e}")
 
 def get_keypts(image, face, predictor, face_detector):
     # detect the facial landmarks for the selected face
@@ -428,87 +541,101 @@ if __name__ == '__main__':
     mode = config['preprocess']['mode']['default']
     stride = config['preprocess']['stride']['default']
     num_frames = config['preprocess']['num_frames']['default']
-    
-    # use dataset_name and dataset_root_path to get dataset_path
-    dataset_path = Path(os.path.join(dataset_root_path, dataset_name))
 
-    # Create logger
-    log_path = f'./logs/{dataset_name}.log'
-    logger = create_logger(log_path)
-
-    # Define dataset path based on the input arguments
-    ## faceforensic++
-    if dataset_name == 'FaceForensics++':
-        sub_dataset_names = ["original_sequences/youtube","original_sequences/actors", \
-                             "manipulated_sequences/Deepfakes", \
-                            "manipulated_sequences/Face2Face", "manipulated_sequences/FaceSwap", \
-                            "manipulated_sequences/NeuralTextures","manipulated_sequences/FaceShifter",\
-                            "manipulated_sequences/DeepFakeDetection"]
-        sub_dataset_paths = [Path(os.path.join(dataset_path, name, comp)) for name in sub_dataset_names]
-        # mask
-        mask_dataset_names = ["manipulated_sequences/Deepfakes", "manipulated_sequences/Face2Face", \
-                            "manipulated_sequences/FaceSwap", "manipulated_sequences/NeuralTextures",\
-                            "manipulated_sequences/DeepFakeDetection"]
-        # mask_dataset_names = []
-        mask_dataset_paths = [Path(os.path.join(dataset_path, name)) for name in mask_dataset_names]
-    ## Celeb-DF-v1
-    elif dataset_name == 'Celeb-DF-v1':
-        sub_dataset_names = ['Celeb-real', 'Celeb-synthesis', 'YouTube-real']
-        sub_dataset_paths = [Path(os.path.join(dataset_path, name)) for name in sub_dataset_names]
+    if dataset_name == 'DiffusionDB':
+        # Use dataset_root_path directly for DiffusionDB
+        log_path = f'./logs/{dataset_name}.log'
+        logger = create_logger(log_path)
+        preprocess_diffusiondb(dataset_root_path, logger)
+    if dataset_name == 'LFW':
+        # Use dataset_root_path directly for LFW
+        log_path = f'./logs/{dataset_name}.log'
+        logger = create_logger(log_path)
+        preprocess_lfw(dataset_root_path, logger)
+    else:
     
-    ## Celeb-DF-v2
-    elif dataset_name == 'Celeb-DF-v2':
-        sub_dataset_names = ['Celeb-real', 'Celeb-synthesis', 'YouTube-real']
-        sub_dataset_paths = [Path(os.path.join(dataset_path, name)) for name in sub_dataset_names]
-    
-    ## DFDCP
-    elif dataset_name == 'DFDCP':
-        sub_dataset_names = ['original_videos', 'method_A', 'method_B']
-        sub_dataset_paths = [Path(os.path.join(dataset_path, name)) for name in sub_dataset_names]
+        # use dataset_name and dataset_root_path to get dataset_path
+        dataset_path = Path(os.path.join(dataset_root_path, dataset_name))
 
-    ## DFDC-test
-    elif dataset_name == 'DFDC':
-        sub_dataset_names = ['test', 'train']
-        # train dataset is too large, so we split it into 50 parts
-        sub_train_dataset_names = ["dfdc_train_part_" + str(i) for i in range(0,50)]
-        sub_train_dataset_paths = [Path(os.path.join(dataset_path, 'train', name)) for name in sub_train_dataset_names]
-        sub_dataset_paths = [Path(os.path.join(dataset_path, 'test'))] + sub_train_dataset_paths
-   
-   ## DeeperForensics-1.0
-    elif dataset_name == 'DeeperForensics-1.0':
-        real_sub_dataset_names = ['source_videos/' + name for name in os.listdir(os.path.join(dataset_path, 'source_videos'))]
-        fake_sub_dataset_names = ['manipulated_videos/' + name for name in os.listdir(os.path.join(dataset_path, 'manipulated_videos'))]
-        real_sub_dataset_names.extend(fake_sub_dataset_names)
-        sub_dataset_names = real_sub_dataset_names
-        sub_dataset_paths = [Path(os.path.join(dataset_path, name)) for name in sub_dataset_names]
+        # Create logger
+        log_path = f'./logs/{dataset_name}.log'
+        logger = create_logger(log_path)
+
+        # Define dataset path based on the input arguments
+        ## faceforensic++
+        if dataset_name == 'FaceForensics++':
+            sub_dataset_names = ["original_sequences/youtube","original_sequences/actors", \
+                                "manipulated_sequences/Deepfakes", \
+                                "manipulated_sequences/Face2Face", "manipulated_sequences/FaceSwap", \
+                                "manipulated_sequences/NeuralTextures","manipulated_sequences/FaceShifter",\
+                                "manipulated_sequences/DeepFakeDetection"]
+            sub_dataset_paths = [Path(os.path.join(dataset_path, name, comp)) for name in sub_dataset_names]
+            # mask
+            mask_dataset_names = ["manipulated_sequences/Deepfakes", "manipulated_sequences/Face2Face", \
+                                "manipulated_sequences/FaceSwap", "manipulated_sequences/NeuralTextures",\
+                                "manipulated_sequences/DeepFakeDetection"]
+            # mask_dataset_names = []
+            mask_dataset_paths = [Path(os.path.join(dataset_path, name)) for name in mask_dataset_names]
+        ## Celeb-DF-v1
+        elif dataset_name == 'Celeb-DF-v1':
+            sub_dataset_names = ['Celeb-real', 'Celeb-synthesis', 'YouTube-real']
+            sub_dataset_paths = [Path(os.path.join(dataset_path, name)) for name in sub_dataset_names]
         
-    ## UADFV
-    elif dataset_name == 'UADFV':
-        sub_dataset_names = ['fake', 'real']
-        sub_dataset_paths = [Path(os.path.join(dataset_path, name)) for name in sub_dataset_names]
-    else:
-        raise ValueError(f"Dataset {dataset_name} not recognized")
-    
-    # Check if dataset path exists
-    if not Path(dataset_path).exists():
-        logger.error(f"Dataset path does not exist: {dataset_path}")
-        sys.exit()
+        ## Celeb-DF-v2
+        elif dataset_name == 'Celeb-DF-v2':
+            sub_dataset_names = ['Celeb-real', 'Celeb-synthesis', 'YouTube-real']
+            sub_dataset_paths = [Path(os.path.join(dataset_path, name)) for name in sub_dataset_names]
+        
+        ## DFDCP
+        elif dataset_name == 'DFDCP':
+            sub_dataset_names = ['original_videos', 'method_A', 'method_B']
+            sub_dataset_paths = [Path(os.path.join(dataset_path, name)) for name in sub_dataset_names]
 
-    if 'sub_dataset_paths' in globals() and len(sub_dataset_paths) != 0:
-        # Check if sub_dataset path exists
-        for sub_dataset_path in sub_dataset_paths:
-            if not Path(sub_dataset_path).exists():
-                logger.error(f"Sub Dataset path does not exist: {sub_dataset_path}")
-                sys.exit()
-        # preprocess each sub_dataset
-        for sub_dataset_path in sub_dataset_paths:
-            # only part of FaceForensics++ has mask
-            if dataset_name == 'FaceForensics++' and sub_dataset_path.parent in mask_dataset_paths:
-                mask_dataset_path = os.path.join(sub_dataset_path.parent, "masks")
-                preprocess(sub_dataset_path, mask_dataset_path, mode, num_frames, stride, logger)
-            else:
-                preprocess(sub_dataset_path, None, mode, num_frames, stride, logger)
-    else:
-        logger.error(f"Sub Dataset path does not exist: {sub_dataset_paths}")
-        sys.exit()
-    logger.info("Face cropping complete!")
+        ## DFDC-test
+        elif dataset_name == 'DFDC':
+            sub_dataset_names = ['test', 'train']
+            # train dataset is too large, so we split it into 50 parts
+            sub_train_dataset_names = ["dfdc_train_part_" + str(i) for i in range(0,50)]
+            sub_train_dataset_paths = [Path(os.path.join(dataset_path, 'train', name)) for name in sub_train_dataset_names]
+            sub_dataset_paths = [Path(os.path.join(dataset_path, 'test'))] + sub_train_dataset_paths
+    
+    ## DeeperForensics-1.0
+        elif dataset_name == 'DeeperForensics-1.0':
+            real_sub_dataset_names = ['source_videos/' + name for name in os.listdir(os.path.join(dataset_path, 'source_videos'))]
+            fake_sub_dataset_names = ['manipulated_videos/' + name for name in os.listdir(os.path.join(dataset_path, 'manipulated_videos'))]
+            real_sub_dataset_names.extend(fake_sub_dataset_names)
+            sub_dataset_names = real_sub_dataset_names
+            sub_dataset_paths = [Path(os.path.join(dataset_path, name)) for name in sub_dataset_names]
+            
+        ## UADFV
+        elif dataset_name == 'UADFV':
+            sub_dataset_names = ['fake', 'real']
+            sub_dataset_paths = [Path(os.path.join(dataset_path, name)) for name in sub_dataset_names]
+        elif dataset_name == 'DiffusionDB':
+            preprocess_diffusiondb(dataset_root_path, logger)
+        else:
+            raise ValueError(f"Dataset {dataset_name} not recognized")
+        
+        # Check if dataset path exists
+        if not Path(dataset_path).exists():
+            logger.error(f"Dataset path does not exist: {dataset_path}")
+            sys.exit()
+
+        if 'sub_dataset_paths' in globals() and len(sub_dataset_paths) != 0:
+            # Check if sub_dataset path exists
+            for sub_dataset_path in sub_dataset_paths:
+                if not Path(sub_dataset_path).exists():
+                    logger.error(f"Sub Dataset path does not exist: {sub_dataset_path}")
+                    sys.exit()
+            # preprocess each sub_dataset
+            for sub_dataset_path in sub_dataset_paths:
+                # only part of FaceForensics++ has mask
+                if dataset_name == 'FaceForensics++' and sub_dataset_path.parent in mask_dataset_paths:
+                    mask_dataset_path = os.path.join(sub_dataset_path.parent, "masks")
+                    preprocess(sub_dataset_path, mask_dataset_path, mode, num_frames, stride, logger)
+                else:
+                    preprocess(sub_dataset_path, None, mode, num_frames, stride, logger)
+        else:
+            logger.error(f"Sub Dataset path does not exist: {sub_dataset_paths}")
+            sys.exit()
+        logger.info("Face cropping complete!")

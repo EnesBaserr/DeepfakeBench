@@ -1,0 +1,1220 @@
+2025-04-29 17:20:10,694 - ERROR - No images found in ../datasets/rgb
+2025-04-29 17:21:12,855 - INFO - 670 images found in ../datasets/rgb/Diffusion-DB
+2025-04-29 17:21:12,974 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/000002_11e4108a-5eeb-4a31-af86-6cbc1b7b19ac.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,050 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/000002_285e8d28-d4b0-472c-b39f-5d06b4ee817a.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,096 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/000002_782f6fd6-4a65-4881-90c8-8658f010c944.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,138 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/000002_7ad08b60-85ce-4cdd-b01c-c25698677eaf.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,182 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/000002_cae202b6-8867-4dd4-a2a6-d761021690e6.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,227 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/000ea732-fd51-4326-b586-35c88fe9b5db.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,272 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/000f2f1c-f551-485f-ba7f-b529519bc409.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,330 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/002c7f85-4ca7-4b50-8191-b445fe5a009a.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,382 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/002dece7-be5d-4f3d-89b2-d38b94bcdeb6.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,432 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00a159b4-962c-4c11-ac19-ac9be02f1289.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,476 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00a16d81-5657-4c45-a32d-05573b3114c6.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,543 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00a1849d-5df4-40e8-8113-b4c16c9bcc89.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,586 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00b0a539-6531-4c04-ab1c-780e54a1de05.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,638 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00b4dbae-c1de-4d70-aa44-7f3dab7bc65d.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,681 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00b614d9-1848-4f9e-b644-f54c6a6ddd2f.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,735 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00b66cf6-d72e-4282-a770-300c33c6d1d2.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,788 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00bcbfff-01f6-4b8f-b237-aa1d3f293e93.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,849 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00bd4a8f-edfe-4cd6-8a32-256b8d3a58cf.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,903 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00c0a8bb-061f-4ff5-bf00-3c6750f4d5f2.png: name 'face_detector' is not defined
+2025-04-29 17:21:13,952 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00c1ea20-65d0-4761-8bdf-5bba88a9c415.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,004 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00c3b7b0-396e-4d2e-afc5-bc1fdf8c97ef.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,075 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00cedc07-9e16-4455-8cec-96fd6d6b3e3b.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,119 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00d22022-4a49-4c54-b449-3da0e5a2b359.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,169 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00d4b57a-7e39-4a4c-b4f5-a0503dc9ce8a.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,215 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00d4eb90-f31b-4fee-92e6-bf936847378e.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,263 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00d5f7a5-e488-40e0-871b-ec394453cf24.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,321 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00dc95de-d59a-436b-8c55-3559e2b0eb3a.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,461 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00de9027-bb21-4cbc-942a-aced2a6e0d32.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,501 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00dfb36f-f03c-451e-94c7-6fd05b96b66b.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,553 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00e2c4d7-c0dc-447e-970e-93adeccf43b8.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,599 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00e31d80-ea3b-446e-b796-46594a9453ac.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,647 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00e8304d-7a28-4b94-8bb6-49765b8ef044.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,685 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00eaf005-b5b6-4bc6-8e1b-e09351814cb3.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,722 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00f2134f-814b-4468-8245-fdb7333d1301.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,769 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00f37025-2a8f-48db-9d10-6f2e14808da6.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,869 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00f41735-ca42-4b3e-bb5f-80f7a0ad9068.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,915 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00f56d3c-0031-44b1-9c32-ffbc7e87be67.png: name 'face_detector' is not defined
+2025-04-29 17:21:14,959 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00f61b5a-9ac3-4273-8ab8-4bead62aa5d2.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,004 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00f97f6e-2241-4ac1-bad6-d9ae093868db.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,055 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00fa1f90-3d8f-427c-8a1f-72aae7139363.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,095 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/00fc091e-0434-48c1-b991-79b011351a4a.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,148 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01a26b47-58dc-4219-b73a-bc6d2e5f823c.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,190 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01a91a88-2c5a-40e9-bf9a-717d258d1aa6.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,235 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01b3c88c-da8f-4dc4-9312-f233b3f4e85e.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,280 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01b618f7-e210-4242-b142-d9afe130badf.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,323 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01bdc8aa-5e26-4069-819c-c8138250dd3d.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,368 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01c284d9-bbc8-46d2-a9c8-6fcf9366842c.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,417 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01c4a317-b102-48c9-8076-ae0148c84e79.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,471 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01c69685-5f18-4157-a667-90a27fd7116b.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,514 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01d3def0-c83c-4f8c-944b-8d64a021531a.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,652 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01d5b6e0-ab58-405c-8067-0027d6a87282.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,694 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01f13f13-a2ba-44d1-b343-067673c59ed1.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,751 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01f4736e-f61b-464d-b8ca-c904c1c8851d.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,793 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01f892ec-0784-47a4-9982-dfcb0428d2f0.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,840 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/01fcc060-cdf9-4b85-b503-be919e2cd7e0.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,886 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/02a3af56-b16b-4a3c-8cf8-2bdbe90d0dd9.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,937 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/02a45619-a932-4def-a07d-8329e25b3428.png: name 'face_detector' is not defined
+2025-04-29 17:21:15,978 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/02b1df95-af88-4a37-b060-45dcc457ca30.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,025 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/02b20797-b52a-4d97-946d-a18e740dd761.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,151 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/02b5f118-ce28-47b7-8a08-bcd8bc2316e0.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,208 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/02ba4195-0d02-4c11-bdbb-b202dbb06480.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,281 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/02c160d9-f7c0-4c07-afea-4910139ca3c4.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,361 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/02c1f5ee-7a8f-49d8-979f-59f7c0c09eae.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,400 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/02c3ab71-5fcd-4ec0-925b-21e41d213dfb.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,461 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/02c85922-4889-4210-a032-bab1f56b23f6.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,506 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a029b87-57bd-45b9-af88-39391fa25c45.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,565 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a03cf32-a23b-470c-9abc-94c5660d1633.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,612 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a0d4ac0-2fd0-4e69-b7ec-63b99752edd4.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,673 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a12ea52-117b-4b29-b3d5-c622adbb4c2c.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,716 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a15b431-d72a-434e-9bba-b00cc503db93.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,762 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a161659-960b-4fa6-8f4a-1e94e3a39ddf.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,852 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a18c8a2-8176-421b-8f27-f1743b795259.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,911 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a1cd263-f421-4cf8-b0f3-656a98bca02f.png: name 'face_detector' is not defined
+2025-04-29 17:21:16,956 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a232f28-9c38-445b-b364-759392dccf9c.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,004 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a344859-f556-42c1-b431-a2b31fc12932.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,049 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a364e4b-9113-4255-9dc8-88a8fce8b353.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,116 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a36b2a6-d534-4071-b38f-180d83d8f4ce.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,164 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a38447a-7add-4469-83d7-b73c0a5e5959.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,210 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a3e2460-3074-4225-84b9-448ee43526ef.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,256 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a47ed36-db9e-47ec-8c8b-b722e93ace4c.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,351 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a4984bb-43b6-494d-813b-29e3d5f3a5a9.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,396 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a49bf44-4dcf-4b40-8b14-8272a66b264a.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,442 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a50b936-7d99-4d57-873e-ed38796e64a0.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,485 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a534649-aaa5-4640-9f9a-108252495bc3.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,532 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a555f5c-95bf-47ef-af2c-d46abe3f7cce.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,578 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a56c009-ca13-4124-9879-39c16a347324.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,638 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a58e321-43b7-475a-8450-0425cfebe4a5.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,688 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a5d9705-b83f-42e4-a56c-6efdd2fdfbad.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,733 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a5df9c1-70d3-46d7-92c5-8940a4388be9.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,771 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a639414-f962-4fd4-93c9-0dc02e9a2e8a.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,816 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a662c6f-bc22-4fbf-8352-050cae1eaf56.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,855 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a66c6db-0831-4565-b7f1-461a93b4db24.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,902 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a6843df-62ea-4d75-9943-89bb3bb70ff8.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,957 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a68565d-c5de-45bb-842b-516a9959b8d7.png: name 'face_detector' is not defined
+2025-04-29 17:21:17,998 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a6cfba3-652a-447e-9f40-da139c3121ac.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,037 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a6d29a1-ed0f-4b87-8d71-d0e1614b9f9f.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,084 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a73f9bb-e030-403f-89f9-85a098ad90c9.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,133 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a75394d-c64c-4b66-ad82-53b65ea3cb7c.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,173 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a7619d5-4ea7-4711-b079-95d8151ed8eb.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,219 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a782b86-6c10-4fe4-a587-9651d3020913.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,264 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a7bf684-a5a7-4e4a-865a-92e5270f7883.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,307 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0a8e9368-d8ab-48c6-8756-ca9969646d67.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,351 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0aa4a317-e952-4262-8237-e3ba17f87352.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,402 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0aa5def8-9010-44b0-a8ce-e8bd17a42765.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,515 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0aa94cab-4874-4919-86f5-56bfa05b0c0d.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,559 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0aae0a69-9fa1-42e3-88f6-c5f4da3ade7c.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,611 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ab0d39b-481e-43da-b4fb-43eecba71c3e.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,655 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ab48dbd-7142-4fa6-b8a0-fbe1776b0d30.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,697 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ab5a04b-2a7b-44f3-8659-7ea4dbc687d5.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,744 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ab78d78-04f9-4e8f-8cc8-47a7901bb253.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,786 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ab85ae1-522b-46db-88d7-ff9343619961.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,841 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0abd70dc-8ca7-4c6f-9bc6-9602586efde7.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,887 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0abd9b84-8ec2-4e8b-a2ca-b415c0e2ed44.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,958 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0acaca99-bdf6-4f5a-9182-fb07fb110eb8.png: name 'face_detector' is not defined
+2025-04-29 17:21:18,993 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0acc7fd8-2628-4bea-8fcc-029e2f2eaa69.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,036 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0accb751-4430-4603-91a6-8edc225436a9.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,078 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0acd6023-5e93-4714-9b53-aa0826460959.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,117 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0acd7d61-777b-40c8-9110-993e1bf0a4a4.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,161 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ad097c5-c8aa-4972-8062-e47dea0f565b.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,202 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ad34a98-a4ae-4229-8574-c9359ad0a353.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,248 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ad5b1b6-4d28-4046-9295-a3dd27acfc84.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,296 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ad8b8f8-65bc-4171-a4bc-95d13bb337c9.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,352 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0adb8d75-2bd4-4088-b47e-b79bc5617580.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,416 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0adc5998-2792-4e80-ac72-b3a0283f7b91.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,457 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0adde8df-4a88-44ba-ba71-88354a9f0b30.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,502 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ae3b0a2-5b65-43f4-9f10-ecdc69596bc1.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,557 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ae710df-ee1e-46d9-b986-d7e38aaa80c7.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,645 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ae8a6f7-273b-478c-a558-0bcea8e35b31.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,686 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0af15fdc-e744-4aa5-a7b1-1eab67e591ea.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,732 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0af81982-a109-4874-be00-2566e07f4bb9.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,794 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0afc6f6f-bb74-47bd-9b3e-6fda5798bb29.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,843 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0afe4b27-2bf6-474b-830e-45979e966510.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,883 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0afe8517-5e95-4c6a-9c9e-961b08663912.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,925 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b0929cd-fe79-4843-b27d-ad6adca1bd95.png: name 'face_detector' is not defined
+2025-04-29 17:21:19,970 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b0c5ce2-d464-44ad-ad11-c75f17db6d44.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,012 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b0d18b7-032b-4baa-9b01-ab2567bfe798.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,080 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b10c63b-a17d-4b0c-82a9-4e319c11cc14.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,121 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b12ee4e-8bb8-41bf-b9bf-2a07c51ec63d.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,234 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b12f42e-6a46-41c1-9e55-64c88562677c.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,283 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b13a56a-a79e-4fe7-85e7-51f4e364ac82.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,343 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b1976c4-7e26-44bd-839c-28fb46e9a207.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,398 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b1f35d8-f443-4c18-a61c-92e35481eb76.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,441 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b1f62f0-e13c-44d6-bc1d-c44c65b68c21.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,490 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b224099-f079-4ff3-96ce-b4f94483d213.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,532 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b26b2f4-4b53-456a-9267-65e07cf1783d.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,580 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b312507-c039-46c6-9b58-94aa76ccf6f6.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,636 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b31b39b-5083-411e-a875-f339595b9d70.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,682 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b32600b-aac2-481a-9193-2458f6c70360.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,723 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b3ec4d2-a516-40a0-9c69-543b46b60e02.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,774 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b3f676b-6e29-4b69-b25d-808426a6cebd.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,826 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b4024e5-2bf4-4248-ae14-ad7165f764ab.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,873 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b4c8da9-37bc-40c4-a697-fdf2b5c2f1a3.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,920 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b55c578-a984-453d-885e-44b4ec52aa4e.png: name 'face_detector' is not defined
+2025-04-29 17:21:20,980 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b5d209d-ab99-4de8-8e19-7e24ac0095ff.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,033 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b5d85a3-eaba-4045-9cba-a91d134d50ac.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,073 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b5e061a-df9b-40fb-88a9-a5e21283a76b.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,124 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b659033-247b-470b-8434-695a8e005f2d.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,184 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b674caa-9c66-4fbb-bba7-a70f72570fce.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,277 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b749131-1179-4cf4-8ef5-c0a4129c6b88.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,323 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b785f25-ada7-49c4-8622-c1881e9777e4.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,383 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b7c869b-5fc7-4a1d-9e09-ae618f7bd438.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,453 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b832d6d-c2f9-4d5f-b88d-ef8b579475b5.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,501 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b8c5807-f1fb-4a88-b66f-6bf969124540.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,551 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b951ed5-a41a-4aef-a2d0-31b00d61c796.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,600 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b95ea51-4d67-4845-887d-1995239248cb.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,650 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0b9a53bd-8f7f-4ffb-bc7a-da0ca9c9fefc.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,692 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ba1309c-de3d-4dd9-9ca1-6f579842efa4.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,736 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ba27369-3507-45f1-9898-5699ea0223a7.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,788 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0bab4866-10cd-400e-8a2b-2cdba0871450.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,841 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0bb488ce-ef30-43f7-ab1d-7a6f971347f9.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,889 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0bc3d4dd-f396-4468-ba42-5335423b635a.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,931 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0bc41f74-e70b-4520-a3d5-84842184e3c9.png: name 'face_detector' is not defined
+2025-04-29 17:21:21,976 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0bcb424e-1109-47b3-b35a-f6dc24a77093.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,021 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0bcbb957-981b-4f37-a16f-357334b345ae.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,090 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0bcbbb17-5176-4c80-a4f0-3d0e2665d814.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,132 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0bcc0f08-cadc-44c2-986d-0f8f11418897.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,170 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0bd00ca2-5e6e-4071-bfc9-1351acdcc8a2.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,212 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0bd36adb-7d67-4aee-be4c-325558b01f87.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,265 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0be09362-811f-4450-bd95-8e1f12ad3ee7.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,311 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0be2d4d8-bb5d-4a83-8f8f-48e1429bd1bd.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,361 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0be6cd65-cfda-4457-825a-0e059cf08bd9.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,404 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0be8c161-4bba-493b-97bc-1e78bd72b335.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,449 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0bed2b47-b9fc-4b48-aa68-d612df828141.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,498 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0bf6ee33-749a-497f-b04c-9edf6a49e1a1.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,547 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0bf99882-9918-46ce-b9e4-25aaed9eb4d3.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,589 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c05e925-0a5b-4819-bcc7-7fb499eac34c.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,666 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c109001-0e88-4f59-90aa-8fbfed567f08.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,731 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c12613d-e025-4c11-a4d3-e10dc5c27088.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,880 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c14e8cd-8fe2-4229-9768-2d528fa178b1.png: name 'face_detector' is not defined
+2025-04-29 17:21:22,936 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c1ceab5-b17c-4946-8232-ec5023ee90d1.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,006 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c1ebd9c-d8b5-4a0b-8832-0e51074d5945.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,056 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c20fabe-c2d0-414b-a9e7-682680cb1e03.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,096 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c2c8fd8-bc48-4bf0-b48f-528365123609.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,138 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c2e1052-b18f-438a-bc72-5a7541f33e68.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,190 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c2e8afb-e355-47b9-9ab0-cf3e9ceeedac.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,239 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c3623aa-d84a-48c4-8702-d5627558a822.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,303 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c3b1dc5-1583-4da0-a5f3-7d102aef9068.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,346 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c43faf0-38ea-4f1e-8e67-7613fdfc4c38.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,389 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c44b789-7546-47f6-8623-ce820166b89b.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,429 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c46ce0f-2eb3-4c93-917d-f5a445807d41.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,472 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c47858d-d19d-4f60-834f-608f63ce5139.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,530 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c4a5c55-b045-43c8-9ce9-bb0945f4f4e1.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,598 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c53ff50-9c92-41cc-84cb-48a7e11fc671.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,646 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c544551-93f0-4b96-86bd-77193a0cc175.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,701 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c590296-9f39-4955-9aeb-89994bdbecb5.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,743 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c5c8be9-a52c-4ca5-a33e-db6cd04b9b16.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,796 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c6b2039-13aa-4afa-848b-6ee0991ca3a9.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,865 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c6c490c-6029-4336-9296-07da84428016.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,913 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c7648ff-8003-4081-820a-9fc728835452.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,956 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c78905e-e106-4345-bf21-611d50798d56.png: name 'face_detector' is not defined
+2025-04-29 17:21:23,999 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c78974d-a031-4fb3-b3b8-da76bc177fbd.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,041 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c7cdbc1-ede7-4af8-832d-74f3cdec2827.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,087 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c7ee9fd-2a7c-48f4-9919-f1bddccd24c4.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,126 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c8d0927-efcc-4c1e-955b-23ecbe571397.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,170 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0c8fe3b5-20b7-44b6-8621-15168b10aa41.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,259 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ca47a0d-fd5f-445d-81d3-cb00fc53f4e8.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,309 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0cacfdf0-df09-4b7e-a51f-8d05dd37f0d7.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,361 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0cb00772-d9ae-4c8c-8f97-68ca44300f11.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,408 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0cb08b06-fa69-4e24-bb62-6fc118f26800.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,447 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0cba083e-59b3-4910-ad31-3062fcec4209.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,555 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0cc346c1-0f2e-46de-9511-b5054a019c6b.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,615 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0cc41242-66da-408f-b88b-2afa8aeb1200.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,664 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0cc706ca-4d47-49f3-91bb-082ce6de367f.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,718 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0cc74583-4940-4d72-a87b-2659ace52132.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,774 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ccf64c9-e8c3-44fc-96f8-d2f5cf617b03.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,821 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0cd2f9f4-ae6d-4d41-a2f4-dc4b1ba2a9ba.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,862 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0cdeb16e-d994-4ac3-ad99-077d0daf2b53.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,913 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0cf433e6-ac1c-42bc-af0b-1f56d0736b45.png: name 'face_detector' is not defined
+2025-04-29 17:21:24,973 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0cfac09b-fdb5-4e3e-ba3e-246f8a46c826.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,020 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d07d60a-7f7f-40ec-b82d-9009936951e0.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,062 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d0b4341-9a3f-4143-89ae-eacc4f1d54ff.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,104 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d1025e1-fec4-456f-88bc-44e6acb8e315.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,148 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d1f18dc-30f5-4abe-9e82-343cd2b27e83.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,191 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d20a49d-4e0e-4d49-838e-1d7d8eef3a34.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,234 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d24328e-c902-4589-a0d2-05ba5dbdfbb2.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,281 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d36ee2a-b1b8-40c9-8034-625869babb58.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,326 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d42df37-1295-4d14-89b9-68f8c957eea0.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,383 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d48b6e7-1360-4a7f-9f90-c7eff89abf7b.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,422 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d48fdc6-fb1f-4b27-9c33-001b490b4d26.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,475 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d4a3b26-840d-44d9-8cae-9f7916865b8f.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,521 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d4a9c53-e1c4-4ce9-a8bc-033f63e264e8.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,565 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d4cdd3d-ef3c-488f-acf6-5535bc582534.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,609 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d508910-93b0-4be9-b154-3ce3b3f806eb.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,660 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d508dba-d951-4124-ac21-04e7dce580a4.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,707 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d50942f-5cb0-48c0-b5ac-0b5708977632.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,757 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d540c09-b8ce-4863-a476-8263994f2392.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,825 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d541555-539e-4c8f-9e56-cf23fa061f08.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,870 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d5e0fab-54e4-4637-ba2e-c01631d023aa.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,926 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d627aa9-124b-47dd-bcbe-58a775335f75.png: name 'face_detector' is not defined
+2025-04-29 17:21:25,971 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d68d9a5-5e11-446d-95e7-1a2dd98ba26e.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,019 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d69832c-8576-4373-912e-45d0e25f5f82.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,071 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d6c5ebf-c072-4689-80b0-ea27704d3c75.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,123 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d83dfac-ed29-4e32-aa93-8fd409434865.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,191 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d8af309-6d2a-4706-bef6-b45cfbdca8cd.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,255 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d8e7644-4784-45d6-9bb8-4d1ac715d8c0.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,301 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d984bfc-0385-45b8-a306-f92989694219.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,347 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d99c699-6f18-44b6-aa79-a49ab45855c6.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,401 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0d9d5a6e-2461-4716-8ed7-3417cead4bd8.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,447 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0da3ca1f-1864-4e66-9706-9d120b6fe8d0.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,483 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0db5d47d-9b87-4235-aa1d-85e386498bb8.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,526 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0db8ada2-2a91-4273-9c85-2e72de2a0130.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,572 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0dbcf415-859d-4dca-aba4-56641a873fdd.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,618 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0dbf265c-c535-451b-959a-4bae149e658f.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,666 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0dce135c-f5ca-4947-bf27-2ca6a28d886e.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,730 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0dd1ee2b-527f-4db8-a388-66fed44fa117.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,825 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ddd8c25-c0b1-451d-9164-3b045afc9675.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,884 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0de0ab5d-3c9b-4c47-9c77-5d97106e8403.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,931 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0de4ee74-c63d-4a00-ab38-ee7edebf82c6.png: name 'face_detector' is not defined
+2025-04-29 17:21:26,993 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0de5826f-59ce-4fd8-9ab3-5b4e0e888fd4.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,049 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0de86195-af94-4933-8b1c-3ae97be76dc9.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,103 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0df28aba-3422-42b3-a5bc-2bbfade59a3b.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,156 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0df3f8bb-981f-4510-8dda-67b382ec29d8.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,210 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0df5db69-3d50-40fb-9933-9d8a0ad54ec7.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,262 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0dfc8353-206b-40e2-903a-201c85a2453a.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,307 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0dfcef1b-0430-41b5-b408-d810cf6a7a9c.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,352 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e024357-e55a-44e1-aa41-97cdb91a0bc8.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,489 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e03c4ff-4dfa-4338-9687-2044dafa6c70.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,542 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e0430f8-41fe-4222-a885-2e2def0d84ad.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,589 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e0b788c-0b01-4863-bb77-f2ba6dcdad0f.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,637 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e16bac1-4ebf-474d-9184-f910bf30cbca.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,699 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e196d02-5c21-4765-8890-059013812d15.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,745 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e1ed6cf-217f-401e-b81e-f4e63d16cb77.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,795 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e21f727-7ee2-444d-a204-2fd1d0c32609.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,840 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e2724ff-a9aa-496b-8471-3a7ce633d972.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,882 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e2836ce-70eb-48f8-a040-594e84b14828.png: name 'face_detector' is not defined
+2025-04-29 17:21:27,931 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e2b95d5-c12d-4eed-8b29-5ed1ae54284f.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,020 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e3173ba-1539-45e8-927d-c1c9a5094ddf.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,063 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e337322-f9c3-4a7d-9975-ff625dca974f.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,124 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e37b511-bdc7-4158-9c77-6a7d5e1ad221.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,167 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e38c5d1-e259-4eee-a0e7-93f413f6ce84.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,211 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e39ea11-617a-4f03-addc-f53cb5682073.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,265 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e3fa990-7b67-4706-95b8-6cb84e5b7a2a.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,323 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e411bca-add1-4f60-b2f7-88e0fae7c908.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,467 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e441394-9972-45bb-a44c-2d2a87633823.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,662 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e498a2a-5914-4f63-b111-686388f00c06.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,707 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e52e9a0-53e2-447b-8da8-7eab815e2ae6.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,751 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e5635e4-59d9-43d2-ab80-def4ffae7f7b.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,795 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e5c7393-a1b7-4653-95d5-176b29303013.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,845 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e60226a-2860-4bab-a23c-4274eff2c1e9.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,891 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e623805-6841-431a-b787-8f08235185c1.png: name 'face_detector' is not defined
+2025-04-29 17:21:28,960 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e635599-ef91-4e9f-bd7c-93a8f7ca7fc6.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,009 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e66ee00-5af6-4b62-b971-eecd5307e93b.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,066 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e69180d-05b1-4e17-b1ea-6d0a4b095498.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,132 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e6bf0d6-ea9e-488f-b1ee-21e3ff12c885.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,178 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e7909d0-d723-4344-809d-7487a9773a3a.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,220 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e7f863e-d71f-4a0b-a46a-0e173f9c965e.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,268 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e83305b-bc7b-46da-afd4-18c400465f5c.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,314 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e868ea3-6afa-4c52-a107-4d944cf8a840.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,366 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e888683-d8de-4c60-9e8b-a1ba9da84a56.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,415 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e89dc7c-802a-4fb1-9dc3-95991e3bcb70.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,458 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e8aefbb-da3b-44a0-92c3-1325efad91ae.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,513 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e8b08c9-45dc-4cf5-b919-ab8d08c617ff.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,565 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e8bb303-81d8-459b-b5fa-46c9b864ba02.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,624 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e8fb337-311a-460b-9f94-67dc0d3298e6.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,675 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e92836f-2aca-4f64-84a4-3c9541306ebd.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,718 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e94c2da-a5d7-4c07-8022-ef32ef55f7da.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,771 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e96b67d-eb33-4c43-adb6-4beee2080dec.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,817 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e98f609-2e35-47ec-a30c-c27b410f5ba6.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,876 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0e99c413-e22d-4325-85e9-c70a78a6055c.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,922 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0eaa5bc9-1e6a-4e78-b43d-67a6a42e62fd.png: name 'face_detector' is not defined
+2025-04-29 17:21:29,980 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0eabe0e2-c8ca-47f1-9621-99b8afd98065.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,053 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0eb1c86b-9bd1-458a-b0d4-5f853b008e0d.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,131 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0eb2b7e3-78c7-4dd9-ad9c-91731a4d2f25.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,175 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0eb34de7-42d1-4e48-8a37-2d09d64f7595.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,223 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0eb8619d-6a9c-4df7-87fd-8114df526cfd.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,269 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ebdca9c-ed66-4ee6-b757-a0edf175da3e.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,315 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ec18e64-e1a8-4ee1-9a93-c24592297fcd.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,369 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ec7a4c6-ff43-4114-a21e-abc6ac98cb31.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,416 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ec85c1f-ae73-4940-8689-4cb2c96875c4.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,457 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0edbaa7c-fe18-4bcf-9a76-d9d3d871eb86.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,519 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0edc664a-3faa-4cc6-86ac-f1645415db56.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,593 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0edd0e79-777b-41a0-ab16-1ce989297747.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,669 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0edf9c26-e0fe-4590-8ffe-1165e05df340.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,720 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ee6ed6c-71cf-454c-9864-d5c0e1ab6836.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,772 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ef1ddf9-6987-4cef-b675-87ccc74240fb.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,818 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ef3c7d1-502b-4d48-9a2b-117962e8d5a6.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,868 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ef45ba9-8791-4cfb-819c-e72e3a220f03.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,906 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0efa40c4-40e2-492e-bf4b-6ae60ff4d26e.png: name 'face_detector' is not defined
+2025-04-29 17:21:30,956 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0efb9c33-9fd9-4958-8f55-0d20850bda36.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,001 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f069871-1e49-4f32-9c5a-d61b194ff3f2.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,054 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f0cea1b-1821-4c39-bfb6-f7077b12b48b.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,097 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f0ea57a-eb92-4409-a91c-b1948badb53c.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,243 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f0f7474-4da6-4f77-8b6b-d23715c0e34b.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,285 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f108db3-845a-42c8-a227-494deaadc067.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,355 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f17f2cd-580b-444d-a77d-4fb436c1c55e.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,478 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f1aa081-5cfa-4366-a953-4ba91c83d48e.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,528 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f2a96ab-d304-4f85-b97b-890ee0b2bcc5.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,575 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f2b3a7d-1315-4494-9d38-497dd67bf395.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,625 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f2c2e56-2fc2-437e-926e-febcaad4437a.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,678 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f2cbe78-bbc9-476b-8219-5e5f381173c2.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,724 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f2d8a0f-43f9-4db2-8b92-d0ca2964b2ce.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,767 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f3595e1-499d-42ea-a016-da656dd6175d.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,816 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f3cf491-a66f-4b85-8664-dd061a207702.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,878 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f3ef089-a156-4b93-ba75-4d1a029cea96.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,925 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f42f261-2448-4cad-979e-ac1676ead7b8.png: name 'face_detector' is not defined
+2025-04-29 17:21:31,975 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f46008a-4b3b-4ad2-8192-86a45083b9fb.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,034 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f47c963-3bb9-4f2d-8bc2-07f6a993c8a8.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,081 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f4a594e-6b19-46df-9d8a-5ae515d926a2.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,126 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f4afa54-eaec-48a1-b85a-d26d82f9ca81.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,167 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f4cb0a8-4578-49e1-a5a3-4db2cf415c11.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,240 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f51f604-7fed-4f70-a564-1e966b0b6ac3.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,283 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f530584-cdc9-4fd0-9956-e08720fe41c8.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,331 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f598387-0f63-4562-b57b-a974cc2f4a0d.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,379 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f5a19bd-7c59-47a6-9a28-4792ca98984d.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,421 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f5db716-f17f-49f8-bbf0-6de1793b283d.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,474 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f5e87aa-2d1c-48d6-98c8-9a70507a2a7c.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,524 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f5e8c1b-8a38-41c3-905b-9a7e205caa4e.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,576 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f5e8e6a-56b8-4550-828f-4b0a806d0f43.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,615 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f66308d-03e0-4e84-b351-11ec0adc4eda.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,662 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f790db3-a09d-4929-a8f6-156bcd055600.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,713 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f7bb25d-019f-4974-9d94-931cd6e0a42b.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,760 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f7f3106-f18d-419e-9a97-97f22959efed.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,832 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f81eda7-0eb8-4d23-bcbf-be5afe235036.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,906 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f875598-3060-4159-9694-148b148efa22.png: name 'face_detector' is not defined
+2025-04-29 17:21:32,960 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f97fe02-2e76-4702-a411-5964384d1085.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,016 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f9c75fd-d713-4492-a1b8-0afd30f49f62.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,062 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0f9ed48e-cd44-401a-992b-f3dc8cd181af.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,103 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0fade243-23c1-455f-8098-2fd649ea60fd.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,166 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0fb24d2f-fc20-4444-9721-680bd6c98777.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,215 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0fb3d2fa-983a-4f6d-bc3a-c3ef8075adbe.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,278 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0fbe9cea-b687-4c0b-96fb-3e647760802d.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,328 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0fc800c4-f52f-45e2-860f-f99dee8b54b3.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,380 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0fcbb829-53fc-4651-bea6-95bb02885922.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,434 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0fd51cbb-962f-4bc2-a6c8-ff8208a6e45e.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,498 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0fd8255e-fd14-42af-9d88-3124b43cf7b7.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,603 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0fd8335e-2025-4fa2-af16-2d560eacef85.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,650 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0fdb1749-e7d6-4d75-a341-7a5f070368bf.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,694 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0fe25286-15d8-456d-9940-5648aa442284.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,763 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ff7c308-80b5-4c94-9bb3-23f24f98dc6e.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,804 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ffacd4e-27bd-4916-82e9-c7bd6fa2264b.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,850 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/0ffda2d9-16b2-40ad-89df-79425e647a31.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,895 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a043b27-0f29-435d-91f4-581ac05423d9.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,942 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a07b796-8ac6-4eae-8038-494de1a77e73.png: name 'face_detector' is not defined
+2025-04-29 17:21:33,987 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a09e045-14af-439d-80ac-c1498c99fb8c.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,048 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a13e873-1fda-4261-8ca5-e160f8444ee2.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,094 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a15603f-017f-4619-b9dd-de9b46e07610.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,171 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a1a7d3c-73ef-49dc-9f0f-27502f55c323.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,210 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a2bc202-da16-4bf1-8d20-45563296299b.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,248 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a2dcfa4-b3f9-4362-9a7b-1e0f2ce5cb2c.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,300 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a361317-a16b-4644-a26d-cee861b1e7e8.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,364 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a405092-5cda-4218-b026-62c2509cc656.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,424 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a408c78-e3ed-4770-aca0-25d27bb1fef9.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,466 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a41f9a4-853d-402c-9b64-044fed0de7c1.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,510 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a4c06a7-55d0-4950-8e83-8f947034fded.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,595 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a4f8354-762c-4c40-94ad-bd0ab8cf1360.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,651 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a5ad356-3459-4efa-bb5c-d7af036fa743.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,709 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a5f34ff-9be4-4d1a-804a-808e1bd4098a.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,751 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a6259aa-e729-47b6-b8f2-a4474f3fb940.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,847 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a63fa18-57c3-4c5f-a206-3944f400c99f.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,892 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a646346-d5e9-463f-8c3d-1811a45861bb.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,946 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a6ae4c4-a5f9-4b5d-8c75-a90ad8795ae8.png: name 'face_detector' is not defined
+2025-04-29 17:21:34,990 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a7066c3-40cc-4910-bd79-6214cb20881b.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,046 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a719dc3-f604-40ec-b292-000ffed073fc.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,089 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a71aa96-ae5b-47ce-a050-43f398e96f1d.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,159 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a77a7f7-b8d7-4dc3-8198-dcdac15a0c30.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,211 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a7b43f6-afbd-4418-b524-b2bbce440a14.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,269 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a7d0b88-c89c-4812-b0c7-c6f6afc6805d.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,316 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a7f80a9-aa8f-40de-9b3c-9f40a969f68b.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,362 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a870009-92d1-49d2-a2ac-0ce2e86c56cf.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,412 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a8dcea3-4a55-46dd-b7b5-741c6e42e19a.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,466 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a938f8b-edcf-4bee-8be8-a5d75caba491.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,517 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a96209a-01e9-4a83-8fc2-9be39f4f86e3.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,566 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a99e4a8-8b8c-470f-91e0-25872f92b856.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,683 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1a9bc368-2637-482e-8387-588a382fd176.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,734 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1aa4e721-8cc6-46f8-9987-53bca7bb6455.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,902 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1aa5a8c2-5189-42de-ab1b-4e7319fa2d06.png: name 'face_detector' is not defined
+2025-04-29 17:21:35,969 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1aa8a2f0-30b4-4701-bfbb-b349ecf43918.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,012 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ab7b6a5-d18d-4f2d-a552-4f8505f9c60b.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,064 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ac6ef66-1678-40f9-be8a-f576e1ab1659.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,118 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ac79879-f95b-4ba7-9a64-1b47814c5f9a.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,172 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ac8010a-e34f-491f-9da2-03895a4ea5dd.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,215 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1acfffc4-53bf-487e-900d-852351a7cc2f.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,260 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ad04a0c-8eae-49a7-840f-bbd795e6679f.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,315 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ad639c7-e3ed-4f5d-9acc-746c7d58ff88.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,359 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ad8dfcf-d23f-4c6c-9f84-51ee20370a32.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,401 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ae22135-a656-401a-8861-8efd09328dd0.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,471 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ae54acc-9be0-4d3b-8fd6-0468dceab7ed.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,517 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1aeada21-8d58-4904-8972-5b7bfc221183.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,685 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1af8f32e-13b9-46f7-b6b4-b41737b3ed99.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,721 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b0065a8-28a3-49c8-adb2-7d087a94e108.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,769 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b03f746-ab3b-4185-b972-078ad3ffd513.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,825 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b1c6dd7-6e68-46c4-bd0d-8a56ef54f698.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,879 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b1d5d2f-14e4-4442-ae0c-1c93d4498558.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,922 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b22ea9a-aed5-41b3-80f4-cdfd0cacad8b.png: name 'face_detector' is not defined
+2025-04-29 17:21:36,964 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b231867-db35-4604-a98f-20db4c32df42.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,009 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b275602-3529-4573-b3a8-db6627189543.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,053 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b2cc2d6-e2a4-403d-92e1-224f6da6c59e.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,106 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b3b6013-45fd-4a2e-9588-07321d2cfe52.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,153 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b3cca2f-57d8-4478-bb91-4c838dd08545.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,195 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b4b37e6-267a-4143-bb8d-7a2cd4c15d48.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,245 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b4f0a58-1a85-46ec-9f9f-a06c12a67f48.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,294 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b570595-69d5-4f9e-bdf3-9b6f5b5aca7a.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,437 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b5fd835-eb79-4b3f-9001-f11302e5a798.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,489 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b64d916-dc23-4d1c-8b54-ff5b91c4c8c6.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,532 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b66e9d6-6cbf-4634-8136-7153b3a0c940.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,580 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b7a433b-136e-4098-b610-cc435954ee0f.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,620 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b8153d9-6ef5-42ec-afa1-98770d0e5cbb.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,665 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b826cc6-9c41-47ff-94b0-fcf3edc7a28e.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,719 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b84228a-f08e-406e-9804-91a7c9848a25.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,764 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b84aa63-539a-43cf-bb56-fafa6db59994.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,810 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b8d7c19-5e20-43fc-8d39-974ea52ffef2.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,853 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b8ef8f6-0a80-4487-b6c8-681ae2955c22.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,902 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b936044-409c-4fbc-9b85-4199ee921071.png: name 'face_detector' is not defined
+2025-04-29 17:21:37,955 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b93ac64-2291-4279-b869-b84127719777.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,008 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b969c52-b92d-4858-9d0f-7653c9a8a4ea.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,057 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b9c32fe-f5eb-45bb-88cc-0f22645f25af.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,112 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1b9c4345-f8cd-4707-896a-fbf60d1aa105.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,157 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ba37820-3f49-4e0f-9411-14a1057b7df5.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,200 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bad5f40-6a98-4189-a3ce-a34d178163f2.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,267 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bb396e1-0140-4a21-903a-ca793750e648.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,319 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bbad7c5-3cc3-448f-934d-46902592b7ed.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,384 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bbb3be8-5f12-488a-acb2-c7223fe34b9f.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,440 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bc24e4c-ba9f-4718-ad7f-a6b6cfa7257e.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,488 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bc2d563-754a-4b4c-8658-0f3bbd0049db.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,557 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bc70d48-19ab-448c-ba12-47f53f09da24.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,634 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bcc5036-c642-45e4-a5dd-135c5ea89ca4.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,681 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bccf3fe-c52a-4e8b-8e17-4bcf1d774faf.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,726 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bd264d7-0c5f-4a9f-9c76-f3283dce8072.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,777 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bdaa2e5-0431-4c36-8fe0-0d74da0cad58.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,819 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bdaff2c-9521-4545-8b08-b2642c8faf54.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,867 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bde9d4a-5ad4-42b5-a6ef-bbb52c010ffc.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,920 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1be5b6e5-8b9b-41c6-a48b-da788aab6a4c.png: name 'face_detector' is not defined
+2025-04-29 17:21:38,978 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1be7558d-8d7f-481d-8924-4e1da8dd0c2e.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,033 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1befd425-d953-4410-aefc-8d5a291955c8.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,089 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bf1d08f-0c6b-4643-bbfc-b84ed5edb074.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,137 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bf1fad9-ad0f-4dbf-8e4d-f05ba2ea49a6.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,181 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bf5c8ae-1a1f-4bb0-acf4-84b0114b72c4.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,224 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bf71044-98d9-4165-b7bf-f99467111f16.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,267 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1bfebb78-c8e1-44e7-a93e-5b82b57fed07.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,309 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c00b406-97fc-414e-b701-bb467cf280de.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,371 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c0479f9-1e31-41a1-a116-2f693cad2f65.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,416 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c04bc07-c92e-4711-8d2f-5002f934bc6d.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,459 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c05063b-1da4-44be-b0b2-ec407a0ee6d1.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,508 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c0e7fd9-1db9-48a2-a7e6-8c8acbbf6260.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,569 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c177c0a-9f5d-4474-9929-43cceb4937fe.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,624 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c1b5fd3-eec4-4792-bc94-cd5e125d5071.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,688 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c2122c3-3ea8-4abf-9aee-ddb483f13f7b.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,745 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c347e3e-cc54-4ad1-b630-9b61aec1ca89.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,781 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c418de3-33eb-44b0-b850-0e561328df03.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,823 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c41af09-6b33-4d87-9367-ab85cf1efee6.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,883 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c484e95-eaf0-480c-a395-be21776c092d.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,924 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c4ac3b8-888c-45b8-b920-d92f6b076e49.png: name 'face_detector' is not defined
+2025-04-29 17:21:39,979 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c4c5cd5-b7dc-4350-90ea-86ea14d9e751 - Copy.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,035 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c4c5cd5-b7dc-4350-90ea-86ea14d9e751.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,077 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c4f77ed-84ef-4892-8b7a-65bf6ae4e212.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,120 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c518301-dad6-449d-9931-cc7a5d64a266.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,165 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c522523-84bc-49cc-95f0-95d29430db67.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,214 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c57fa82-8cc0-4c10-9e08-685f0936cf69.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,269 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c57ff9a-1def-40aa-b0a1-0e867e4c8daa.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,345 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c5a3adf-aebd-426a-ad78-43b5c1991d89.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,417 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c5a59cd-b3ef-4adb-bf0a-8ca3d5c9acdb.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,457 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c5b3975-a595-4345-9ccf-d3a251e7b857.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,518 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c64a1ea-d78e-4cdd-a346-5fe93d7d4e72.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,576 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c67415f-1f69-487a-925b-6a8f102dc8d0.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,622 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c69a00c-fff3-4d8d-a1e0-94990825deab.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,677 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c69c8aa-b524-418e-a5a5-c9c4e0882771.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,721 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c746283-d4e2-4f7d-9716-3797837e7325.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,778 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c8cc351-abb0-4839-99c9-df83330ea406.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,847 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c943e6e-1a82-472d-a461-2f37b98eefdd.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,888 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c979e69-93ef-41b4-8f96-2dba81864570.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,938 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c99854f-7828-44f7-8ecc-83a79f326066.png: name 'face_detector' is not defined
+2025-04-29 17:21:40,985 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1c9b8519-bbf2-4f41-8e9c-9ddd460d5c88.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,033 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ca40376-683c-46af-b257-c12deff80753.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,081 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ca43d21-024e-486d-b9ab-72545ee992dd.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,128 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1cabfbe5-84d6-4a2f-bca3-7f233684898b.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,170 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1cbe26fe-f1eb-4c9e-b2a7-7158cebf3f7b.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,217 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1cd9ddc3-640b-46e9-a773-eca24b0dbea5.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,257 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ce0d0c0-0a80-4886-9c88-2a71da6886ed.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,315 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1cf14e5e-fd6e-45fd-8692-8fdb6540ef85.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,368 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1cf82750-b257-422a-8e50-c7c162066024.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,461 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1cf91d10-2aa3-4221-8518-8b1c75a5cb52.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,520 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d0172f7-126d-4ed8-9357-f49787694341.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,617 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d038a35-1da6-4b52-adcf-fcc2f08b00eb.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,665 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d0ab59d-c99c-4bc0-8c16-9d107c6139b4.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,722 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d25eeef-b0c6-4255-ae93-88b44bc06188.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,801 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d2c88d2-9724-4ff5-837e-eb494e27bca5.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,841 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d2ee2e9-5aaf-4208-8be4-aef30a89fd4e.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,879 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d2f7f85-9e57-48e1-86fe-97929eaeb523.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,937 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d319fa5-57f6-44a1-aec9-4dc34dbe20de.png: name 'face_detector' is not defined
+2025-04-29 17:21:41,980 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d33c341-4470-477e-905e-18de0a8633a9.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,024 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d3b1f4c-81b3-4f19-a6ce-f7e5851bb8c4.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,065 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d3c90c9-fc89-4408-a815-90ea2a85f5a5.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,114 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d42ff75-6419-4357-9f26-3d672b28a57f.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,239 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d507b9a-955d-4cca-b6c0-a00a5e7507f9.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,299 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d5121ea-b594-4440-95c1-f655b223a958.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,341 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d588ae3-7751-4a9e-a5e5-f6d0c8813e68.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,386 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d6498a3-2b87-430d-b767-dbff863a2d1d.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,428 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d6890db-b5a6-4a43-a3a6-02e49b4e7624.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,476 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d6953ff-1869-4bb6-ac63-ed5083a37b35.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,531 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d7322c3-9eac-4e12-981c-89cdb98f9039.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,615 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d79446e-b77f-4a0e-936e-bf9f9baf8c8b.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,667 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d82a857-c88f-4fd1-bd96-37771c39b09e.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,722 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d86a9e9-2db6-4fba-b92c-38885c1b6895.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,770 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d902857-d2a4-459a-9039-46218073f62b.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,824 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d963de3-87aa-4982-a33d-71c39dc08fe2.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,868 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d9704b3-9041-42e5-95ad-bdebd5c8019b.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,918 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1d989caf-389f-4c39-bf53-0d4534633cd4.png: name 'face_detector' is not defined
+2025-04-29 17:21:42,972 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1da76db7-15d9-41c5-b9d2-0d8c25a0e166.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,023 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1db0aaa5-28fb-4df5-aeb6-a6e1c2351599.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,067 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1db33e4c-8178-4de5-86d7-6947b4d05fef.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,112 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1dbaf230-7054-45cc-8b57-fc35de93605f.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,151 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1dc676f4-fc39-4b0d-81e3-e65c1278fc55.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,197 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1dccf235-37cf-4344-a9c5-ca1e459cebc6.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,243 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1dd2774c-b4cf-42f4-9d85-51e962c0df3c.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,299 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1dd45c54-2abb-4ebc-a699-5efb61c5222e.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,416 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1dd64d75-0690-4636-a781-d4c680ff2d94.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,465 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1dd7beaa-0ae6-49c5-8552-0750b357bd21.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,521 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ddd16eb-3bda-4efd-be8b-c79f153829cd.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,566 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1dec86d7-adda-44dc-85e5-205b48a2913a.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,605 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1deced7f-02cf-447b-8eaf-06e92abb6924.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,644 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1df077f5-9a28-428c-a39a-fc19fac059bf.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,694 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1df33190-d18d-4b10-bd56-893574f65af2.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,744 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1df85d92-19d9-42ff-b6c2-1647c9eec1c5.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,787 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1dfd43ee-efcc-4e18-8ec1-c2b6dd948c80.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,829 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1dfe11dd-aec2-4a3a-afbc-5d082a0163a6.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,874 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e000eb2-df76-48ee-b90f-94f2b095c706.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,913 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e0d11af-4d92-4e48-960e-c25d242a65c1.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,956 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e0e7586-3a15-48c6-8390-483fc9218417.png: name 'face_detector' is not defined
+2025-04-29 17:21:43,997 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e1bf6df-ed68-401a-b35e-760baf8b2eaf.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,043 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e1ee3c3-7cb1-4b17-8375-be42d8cbc8c0.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,081 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e203dbe-1f46-40aa-adf2-062ca4b4ae69.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,127 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e208bbe-0ad3-4f83-a9f9-0815a0f209f1.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,176 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e26a780-c250-474f-81c0-9ba41a87600e.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,234 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e2c7eac-8904-4d39-b21f-5e82edeafcc6.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,302 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e2da40a-9a30-41a7-898c-e6975e415abb.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,343 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e2ea538-c5be-46e5-834e-f82723bffff8.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,410 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e30e096-6095-4bdf-9c13-b4baff1dc347.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,511 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e35d064-2b18-4760-bd10-34c6c55999b2.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,559 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e38a393-7ac1-4e36-8863-72291b6ee96b.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,608 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e3f554e-4ec5-4d5f-9f4d-43aa42238b98.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,645 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e436693-97e7-4e42-b7fd-db4e613b8911.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,687 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e440e81-0845-4119-9134-f34d46f7131a.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,739 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e46ad42-2927-4c02-80b8-68c0db161f6f.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,806 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e4ad347-718b-4ee8-b971-f2b2be33512f.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,854 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e4fb2a1-5e0e-414e-93b3-67774815daee.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,897 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e4fbd3b-dc3f-40d6-92b6-1c90611ca311.png: name 'face_detector' is not defined
+2025-04-29 17:21:44,965 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e4ff865-1554-45e8-99d9-018c5e00ad29.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,015 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e502936-50e3-46b2-ac9f-278c39192509.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,059 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e516e90-a39e-4716-9d22-b33a0aeb4a4c.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,109 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e64d170-eb76-4fb8-a1a7-e732e00a0597.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,152 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e68769e-1e99-425d-aef0-830b83c39d9f.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,226 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e710e0c-58d3-401d-8932-84d929cac61f.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,268 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e7296b2-36fd-4a2a-825c-2aeb5d9e69cb.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,309 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e72c73d-043c-4474-afd7-3948fd15319b.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,350 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e80aa0d-4d36-4508-a7b1-75c9d78ccff0.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,394 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e8bb57e-4783-449a-b0fb-7a900acdb62d.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,447 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e914a0f-7ae5-489a-b475-cae0be743412.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,493 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e9c421e-58ce-4eed-970b-00ceeb4259de.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,536 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e9d04d3-46e9-4d38-8179-600bf735c7a6.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,582 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1e9d5511-5aff-41e4-93b3-452c60c5ae06.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,625 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1eb1861b-4edf-433d-93b2-bba7338dcb49.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,679 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1eb79400-6c86-4756-8c2c-a22204948ae1.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,723 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1eb96bc9-a522-470b-bd33-b8fd66571ab1.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,770 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ec72f04-8cea-474c-8c02-0cfe4b29007a.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,815 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ec98f6f-e382-4461-9b8f-a0d4003b8560.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,861 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ecd5f07-eb79-4dd4-94af-e240d1b91e9a.png: name 'face_detector' is not defined
+2025-04-29 17:21:45,971 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ed2b95b-dbe8-4ff9-9657-56dbf406986a.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,044 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ed98814-3c9b-48d6-89aa-8ee2c3db9f16.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,087 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ef18d32-296f-41b1-a709-427f9a57e976.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,133 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ef32282-ba74-4046-84f3-66060f8e948d.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,176 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1efb881e-bd5b-47de-b47c-3cbd54058391.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,227 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1efc75f5-8ee4-4917-a8d3-d0f442e48c6a.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,266 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1efe61b7-e1ed-4cd1-9a30-34890eabc649.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,326 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f008536-b1f0-45b9-9d6c-afe255bc2cf0.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,406 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f08c147-44c4-4a83-8038-fa1f02bd1456.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,466 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f0a1ce2-3a0d-4541-8ae5-7aca1539a375 - Copy.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,519 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f0a1ce2-3a0d-4541-8ae5-7aca1539a375.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,564 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f0b1e7f-fe2d-4186-8fb4-4fcd103be7d8.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,617 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f0badd7-12ab-4b6e-84ff-bfecdcba44ff.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,666 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f0c85da-8d8d-42c4-a205-1f5d4dc46ff8.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,717 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f0cc0d0-9faa-4803-8bca-d2714dbfb165.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,758 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f104bd2-3f49-4b5f-ba1c-3551b6224cbe.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,874 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f13641b-04dd-4023-b4a0-43d974fc66f1.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,916 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f2a1e5f-beb7-4150-97c0-b970e864c8ff.png: name 'face_detector' is not defined
+2025-04-29 17:21:46,971 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f33cd26-89ef-4c4e-bda4-aa882b2295e8.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,017 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f35125f-cfc8-464e-8ec9-a94df93bf2fe.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,065 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f3ad788-c7c1-44a5-8b00-63651ccb9fe4.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,115 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f40862b-315f-4762-b8e7-14045c4f5f02.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,194 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f431681-6794-405c-a9d3-3dc2d2d5036e.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,237 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f4dab54-3562-4564-9a41-fdab179d7093.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,293 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f4fbfa5-d2e5-4d7d-9129-f5775fc3872a.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,344 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f5d4ab4-4eba-483c-8e8f-b0f7c98e9347.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,403 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f60a2cf-80b8-47ed-9250-92e6162a869c.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,491 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f64ea4d-1b9c-4763-b004-23ff971be7ca.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,533 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f6ae90b-13d2-4d6c-ba6b-c3172f2bb47a.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,585 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f6e7682-7087-49b2-adf2-708282f09fec.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,630 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f7110c5-4aa5-41f7-a9b1-d2aa222fc4ab - Copy.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,675 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f7110c5-4aa5-41f7-a9b1-d2aa222fc4ab.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,716 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f75e411-b55d-4b2c-bdd2-809a3dd4a9cd.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,760 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f7800ad-18ec-4a95-a2df-fb512faf634c.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,823 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f80485e-5c40-4e93-ad8d-2c6b1f82b49e.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,868 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f83153b-33b6-410e-a867-03b5e0c12d4d.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,909 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f833de0-56af-40d6-acab-4779aaa6e4b0.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,945 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f834f0a-c701-4b04-ba2c-5085a86f4575.png: name 'face_detector' is not defined
+2025-04-29 17:21:47,991 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f83a1d7-db58-42c3-b1ae-cf4b67abfe9d.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,036 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1f8e74f2-3d18-4bcf-8f7c-25359c7f50f1.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,080 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1fcf01bd-1a8f-4b3b-a688-0e659204bcde.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,140 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1fd026ee-f96c-4a6c-9989-34e8b8115546.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,183 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1fd7c1a6-5b22-4dc5-afa4-372a3db37957.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,225 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1fda13b2-dd93-4407-9609-2f05d761cf16.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,308 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1fddfd79-345d-4ec3-84a7-90750b55e680.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,351 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1fe360fb-5ebb-4418-b9aa-78b9f0838f84.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,411 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1fe548b6-c79a-4b3a-8480-0f235d89ace5.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,456 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1fe64f3a-595c-4b65-ae89-604c46eaf0ce.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,503 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1fe6bac9-5119-4359-892b-8577b845e999.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,552 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1fe990ec-b4e8-424a-baab-9b1c27f0a95c.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,598 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ff56030-503e-4148-90e9-5aec6c903d22.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,643 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ff66266-87b3-4470-8ce4-7591293052f4.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,688 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ff8dd46-5738-4508-abc9-c553d6d948d8.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,735 - ERROR - Error processing image ../datasets/rgb/Diffusion-DB/1ffaaee2-ffc4-44a6-a262-4b3d5f60becf.png: name 'face_detector' is not defined
+2025-04-29 17:21:48,739 - ERROR - Dataset path does not exist: ../datasets/rgb/Diffusion-DB/DiffusionDB
+2025-04-29 17:30:08,997 - ERROR - No images found in ../datasets/rgb
+2025-04-29 17:30:28,429 - INFO - 670 images found in ../datasets/rgb/DiffusionDB
+2025-04-29 17:30:30,957 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/002dece7-be5d-4f3d-89b2-d38b94bcdeb6.png
+2025-04-29 17:30:31,186 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/00a159b4-962c-4c11-ac19-ac9be02f1289.png
+2025-04-29 17:30:32,183 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/00b4dbae-c1de-4d70-aa44-7f3dab7bc65d.png
+2025-04-29 17:30:51,447 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0a12ea52-117b-4b29-b3d5-c622adbb4c2c.png
+2025-04-29 17:30:53,745 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0a364e4b-9113-4255-9dc8-88a8fce8b353.png
+2025-04-29 17:30:58,573 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0a5df9c1-70d3-46d7-92c5-8940a4388be9.png
+2025-04-29 17:31:05,031 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0aae0a69-9fa1-42e3-88f6-c5f4da3ade7c.png
+2025-04-29 17:31:07,040 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0abd70dc-8ca7-4c6f-9bc6-9602586efde7.png
+2025-04-29 17:31:11,830 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0ae3b0a2-5b65-43f4-9f10-ecdc69596bc1.png
+2025-04-29 17:31:12,146 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0ae710df-ee1e-46d9-b986-d7e38aaa80c7.png
+2025-04-29 17:31:20,268 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0b32600b-aac2-481a-9193-2458f6c70360.png
+2025-04-29 17:31:23,176 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0b5e061a-df9b-40fb-88a9-a5e21283a76b.png
+2025-04-29 17:31:23,386 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0b659033-247b-470b-8434-695a8e005f2d.png
+2025-04-29 17:31:24,500 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0b785f25-ada7-49c4-8622-c1881e9777e4.png
+2025-04-29 17:31:24,708 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0b7c869b-5fc7-4a1d-9e09-ae618f7bd438.png
+2025-04-29 17:31:29,971 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0bd36adb-7d67-4aee-be4c-325558b01f87.png
+2025-04-29 17:31:38,714 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0c6c490c-6029-4336-9296-07da84428016.png
+2025-04-29 17:31:44,196 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0cf433e6-ac1c-42bc-af0b-1f56d0736b45.png
+2025-04-29 17:31:51,923 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0d984bfc-0385-45b8-a306-f92989694219.png
+2025-04-29 17:31:52,700 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0da3ca1f-1864-4e66-9706-9d120b6fe8d0.png
+2025-04-29 17:31:53,367 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0dbcf415-859d-4dca-aba4-56641a873fdd.png
+2025-04-29 17:32:17,447 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0ef3c7d1-502b-4d48-9a2b-117962e8d5a6.png
+2025-04-29 17:32:22,568 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0f3595e1-499d-42ea-a016-da656dd6175d.png
+2025-04-29 17:32:23,933 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0f47c963-3bb9-4f2d-8bc2-07f6a993c8a8.png
+2025-04-29 17:32:28,078 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0f790db3-a09d-4929-a8f6-156bcd055600.png
+2025-04-29 17:32:30,917 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0fb24d2f-fc20-4444-9721-680bd6c98777.png
+2025-04-29 17:32:31,147 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0fb3d2fa-983a-4f6d-bc3a-c3ef8075adbe.png
+2025-04-29 17:32:31,815 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0fc800c4-f52f-45e2-860f-f99dee8b54b3.png
+2025-04-29 17:32:39,198 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1a4f8354-762c-4c40-94ad-bd0ab8cf1360.png
+2025-04-29 17:32:44,210 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1a938f8b-edcf-4bee-8be8-a5d75caba491.png
+2025-04-29 17:32:45,539 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1a9bc368-2637-482e-8387-588a382fd176.png
+2025-04-29 17:32:45,767 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1aa4e721-8cc6-46f8-9987-53bca7bb6455.png
+2025-04-29 17:33:00,503 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1bbb3be8-5f12-488a-acb2-c7223fe34b9f.png
+2025-04-29 17:33:00,763 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1bc24e4c-ba9f-4718-ad7f-a6b6cfa7257e.png
+2025-04-29 17:33:06,324 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1c0479f9-1e31-41a1-a116-2f693cad2f65.png
+2025-04-29 17:33:08,445 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1c2122c3-3ea8-4abf-9aee-ddb483f13f7b.png
+2025-04-29 17:33:08,780 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1c347e3e-cc54-4ad1-b630-9b61aec1ca89.png
+2025-04-29 17:33:09,833 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1c484e95-eaf0-480c-a395-be21776c092d.png
+2025-04-29 17:33:19,530 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1d038a35-1da6-4b52-adcf-fcc2f08b00eb.png
+2025-04-29 17:33:39,726 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1e35d064-2b18-4760-bd10-34c6c55999b2.png
+2025-04-29 17:33:49,742 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1ecd5f07-eb79-4dd4-94af-e240d1b91e9a.png
+2025-04-29 17:34:01,977 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1f83a1d7-db58-42c3-b1ae-cf4b67abfe9d.png
+2025-04-29 17:34:05,396 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1ff66266-87b3-4470-8ce4-7591293052f4.png
+2025-04-29 17:34:05,864 - ERROR - Dataset path does not exist: ../datasets/rgb/DiffusionDB/DiffusionDB
+2025-05-04 11:11:32,437 - INFO - 7939 images found in ../datasets/rgb/DiffusionDB
+2025-05-04 11:11:35,064 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000006_18ceca59-c7e1-454f-9171-81c298dd8db9.png
+2025-05-04 11:11:35,325 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000007_cbffd07b-5932-4043-a9bf-f6744a774a3d.png
+2025-05-04 11:11:52,308 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000585_7f348353-8b91-4209-b89d-7e348b101653.png
+2025-05-04 11:11:52,906 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000586_23a92269-2150-4861-b78c-12327bd91fc6.png
+2025-05-04 11:11:59,707 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000589_d304fa33-8b10-4d43-bcd5-3886d77f78f2.png
+2025-05-04 11:12:05,038 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000594_44cfda54-1965-4afe-b99a-cbf7c495ebc7.png
+2025-05-04 11:12:06,197 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000595_2db8f487-6595-430e-bd94-e1a5a55c93bb.png
+2025-05-04 11:12:08,152 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000597_cc98e662-01f5-4d7a-be6c-72540fe0e5c5.png
+2025-05-04 11:12:23,206 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000611_47ba0aad-e6dd-40a6-a41d-8a1f4dec3279.png
+2025-05-04 11:12:30,473 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000615_91913ce3-60bf-4700-98c9-dde79a3391c1.png
+2025-05-04 11:12:34,265 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000618_a8331f5c-54f1-4984-832d-f9574830bdec.png
+2025-05-04 11:12:35,953 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000619_f0b13415-98cb-48a3-9d8d-9d0360f980f3.png
+2025-05-04 11:12:53,649 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000637_21c7606b-5b99-46ec-a4cd-16d033efcff4.png
+2025-05-04 11:13:12,463 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000658_e2033381-145b-4f0e-b805-815b3ac46b03.png
+2025-05-04 11:13:17,167 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000663_fb0f8f23-2fb1-4a43-9952-1cffa1706901.png
+2025-05-04 11:13:22,858 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000668_25c2ee94-e165-4101-8d42-06336ea48dc9.png
+2025-05-04 11:13:26,777 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000670_2dab867c-9bfa-4fd8-a84a-fa8bfcc99204.png
+2025-05-04 11:13:30,640 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/000674_33787824-2e31-4c2b-b007-269f9718f746.png
+2025-05-04 11:13:37,929 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/002dece7-be5d-4f3d-89b2-d38b94bcdeb6.png
+2025-05-04 11:13:38,290 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/004df48b-37c6-4ef9-9cca-6093569667ed.png
+2025-05-04 11:13:40,265 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/005d348d-0fda-482d-8f64-3693aa9bd5d5.png
+2025-05-04 11:13:50,822 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/011062b6-fd3f-44db-b1d0-36641eccb940.png
+2025-05-04 11:13:54,957 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/016925dc-be44-4aed-8a1c-15220a6a9899.png
+2025-05-04 11:13:55,558 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/018c2a81-53cf-449e-8b2e-1beacc4f1b06.png
+2025-05-04 11:14:13,289 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/030b7512-600c-4fb6-acbe-9d1b7b9be04d.png
+2025-05-04 11:14:17,866 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0376e463-0d23-4a82-9ced-a2af1503870e.png
+2025-05-04 11:14:20,276 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/03b2d966-02eb-4c05-baaf-dbd2a9e3e995.png
+2025-05-04 11:14:27,568 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/046be654-2699-479e-a062-9a2f592e3a58.png
+2025-05-04 11:14:41,294 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/05c0cef7-8824-4081-93d3-70999ccd655e.png
+2025-05-04 11:14:45,112 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0621dde6-1b1d-48fa-82e6-3ba728bebc26.png
+2025-05-04 11:14:54,225 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/06fab59b-01ea-4c35-899a-3918843220b5.png
+2025-05-04 11:15:02,657 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/07d224de-65d9-43a8-ad39-03d8e78d4f9c.png
+2025-05-04 11:15:07,626 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/085401e9-f9f8-4f85-8aba-b3f150b82a6e.png
+2025-05-04 11:15:13,573 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/08d38a41-7406-44a8-8514-162c977b5020.png
+2025-05-04 11:15:34,542 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0ae3b0a2-5b65-43f4-9f10-ecdc69596bc1.png
+2025-05-04 11:15:34,873 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0ae710df-ee1e-46d9-b986-d7e38aaa80c7.png
+2025-05-04 11:15:40,738 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0b5e061a-df9b-40fb-88a9-a5e21283a76b.png
+2025-05-04 11:15:41,543 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0b785f25-ada7-49c4-8622-c1881e9777e4.png
+2025-05-04 11:15:41,793 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0b7c869b-5fc7-4a1d-9e09-ae618f7bd438.png
+2025-05-04 11:15:45,094 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0bd36adb-7d67-4aee-be4c-325558b01f87.png
+2025-05-04 11:15:55,487 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0cf433e6-ac1c-42bc-af0b-1f56d0736b45.png
+2025-05-04 11:16:00,024 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0d984bfc-0385-45b8-a306-f92989694219.png
+2025-05-04 11:16:00,731 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0da3ca1f-1864-4e66-9706-9d120b6fe8d0.png
+2025-05-04 11:16:15,118 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0ef3c7d1-502b-4d48-9a2b-117962e8d5a6.png
+2025-05-04 11:16:19,501 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0f47c963-3bb9-4f2d-8bc2-07f6a993c8a8.png
+2025-05-04 11:16:21,954 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0f790db3-a09d-4929-a8f6-156bcd055600.png
+2025-05-04 11:16:25,068 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0fb3d2fa-983a-4f6d-bc3a-c3ef8075adbe.png
+2025-05-04 11:16:25,415 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/0fc800c4-f52f-45e2-860f-f99dee8b54b3.png
+2025-05-04 11:16:28,394 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/100d22fc-247c-4408-ad20-a93b71598f43.png
+2025-05-04 11:16:34,744 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1068e2a8-b5d4-44af-8a53-6387f4f6e657.png
+2025-05-04 11:16:36,991 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/10a81012-c9d3-4d47-897b-d197b60373a8.png
+2025-05-04 11:16:43,540 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/11536462-d1ac-4cfc-8528-b9131685f672.png
+2025-05-04 11:16:45,422 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/11875939-405e-4015-b24d-638c1259d377.png
+2025-05-04 11:16:47,490 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/11b680e0-a087-45ae-84d3-35c58fb28cae.png
+2025-05-04 11:17:04,268 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/13163452-f92e-4041-be52-b5894f875f4c.png
+2025-05-04 11:17:05,992 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/134530b8-9695-4af0-9c6c-8526c13b9bfa.png
+2025-05-04 11:17:23,831 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/14f91537-c887-4c68-ad86-9d96c6eee113.png
+2025-05-04 11:17:27,939 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/155508b8-44c4-4c4b-b3cd-6515c166d0e0.png
+2025-05-04 11:17:29,038 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/155dced5-5ba8-431f-bb4e-444f5160ce6e.png
+2025-05-04 11:17:31,165 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/159114c0-cb2c-40c4-9a28-ee3041a58b65.png
+2025-05-04 11:17:31,358 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1595bf3d-e5ab-4976-95c3-024e6960168d.png
+2025-05-04 11:17:42,060 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/166f0b8c-69d8-4bc6-992b-161c9174de4d.png
+2025-05-04 11:17:43,969 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/167bd46c-0203-4fd0-9c2d-586f4f0947c1.png
+2025-05-04 11:17:47,481 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/16f67c0c-305c-4ff7-95c0-689b12b595ed.png
+2025-05-04 11:17:51,840 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1744995c-8506-4f13-a73f-4d85da5cbde6.png
+2025-05-04 11:17:56,694 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1793ca7e-5f4e-4fa4-9749-433743d32d0b.png
+2025-05-04 11:18:04,898 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1867fc36-f25d-4268-8c47-4dee0ba2afb7.png
+2025-05-04 11:18:17,583 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/197b8b1d-8f9a-43c7-aa3e-67d05a3f961b.png
+2025-05-04 11:18:28,176 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1a4f8354-762c-4c40-94ad-bd0ab8cf1360.png
+2025-05-04 11:18:31,085 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1a938f8b-edcf-4bee-8be8-a5d75caba491.png
+2025-05-04 11:18:31,645 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1aa4e721-8cc6-46f8-9987-53bca7bb6455.png
+2025-05-04 11:18:39,605 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1bc24e4c-ba9f-4718-ad7f-a6b6cfa7257e.png
+2025-05-04 11:18:41,911 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1c0479f9-1e31-41a1-a116-2f693cad2f65.png
+2025-05-04 11:18:43,464 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1c2122c3-3ea8-4abf-9aee-ddb483f13f7b.png
+2025-05-04 11:18:44,263 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1c484e95-eaf0-480c-a395-be21776c092d.png
+2025-05-04 11:18:50,423 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1d038a35-1da6-4b52-adcf-fcc2f08b00eb.png
+2025-05-04 11:19:00,595 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1e35d064-2b18-4760-bd10-34c6c55999b2.png
+2025-05-04 11:19:06,726 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1ecd5f07-eb79-4dd4-94af-e240d1b91e9a.png
+2025-05-04 11:19:15,760 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1f83a1d7-db58-42c3-b1ae-cf4b67abfe9d.png
+2025-05-04 11:19:17,785 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/1ff66266-87b3-4470-8ce4-7591293052f4.png
+2025-05-04 11:19:20,450 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/201e1645-87bb-4208-b9ae-825ed30b26a6.png
+2025-05-04 11:19:23,087 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2062dfa4-d958-4a02-a309-e74f67f8d9c6.png
+2025-05-04 11:19:28,747 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/210c79bc-3997-4a7e-a80c-39aa29e1920e.png
+2025-05-04 11:19:31,747 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/214b259a-e9a8-4bc8-b5bb-2a14dd51dca8.png
+2025-05-04 11:19:48,006 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/225a4726-9a02-45e5-b514-ba1e46627abd.png
+2025-05-04 11:19:48,554 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2260e136-62ec-4519-b5fe-23e2bbeaca63.png
+2025-05-04 11:19:50,165 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/227ffd82-601d-4f71-bfff-bbd8043e8bbe.png
+2025-05-04 11:19:51,087 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/22838ff6-3b6b-4ba1-892a-33cab0e6853d.png
+2025-05-04 11:19:51,647 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2291a249-80f5-485c-830a-9b589ac12ea0.png
+2025-05-04 11:19:54,712 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/22b9ec74-9de0-40b5-b5f9-cfc8c8fd99c9.png
+2025-05-04 11:19:55,463 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/22db875a-11a8-4682-9f1e-a1685760e3f7.png
+2025-05-04 11:19:59,654 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/23182d2b-c608-45a2-bceb-d7988b10cf90.png
+2025-05-04 11:20:05,953 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2370ac56-b445-4652-9bc1-e8017ce99a97.png
+2025-05-04 11:20:06,606 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/23a92269-2150-4861-b78c-12327bd91fc6.png
+2025-05-04 11:20:09,882 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/23c83c06-69eb-4791-91fb-624f7e46f6b9.png
+2025-05-04 11:20:12,591 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/23fd3466-a47d-4717-a6aa-08c57eda5a54.png
+2025-05-04 11:20:13,357 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2407b090-60dc-4184-a3e1-f5439545ba90.png
+2025-05-04 11:20:19,152 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/24f32547-9018-4f64-b2c8-34425f963487.png
+2025-05-04 11:20:30,336 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/25afdc2d-69fa-487a-9a68-955e1a783d4a.png
+2025-05-04 11:20:31,229 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/25c2ee94-e165-4101-8d42-06336ea48dc9.png
+2025-05-04 11:20:35,273 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/25f9da3d-71ec-4f39-8eda-d7379aeab7c3.png
+2025-05-04 11:20:44,925 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/26cdc432-1bf8-436f-bf60-3aeb40580ff4.png
+2025-05-04 11:20:46,566 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/26da351b-c110-4456-ae62-f3a0af64f4bc.png
+2025-05-04 11:20:58,550 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/281cbaa1-b51a-45e4-887d-1e71b34efa45.png
+2025-05-04 11:21:04,429 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/28c54d8d-6217-44f5-8f6d-69aa95aaf046.png
+2025-05-04 11:21:06,881 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2913060e-8590-48f5-81ca-e4044413be95.png
+2025-05-04 11:21:08,049 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/292d9cc2-33ff-4990-9363-65fa8c010714.png
+2025-05-04 11:21:16,868 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/29a6eb76-5144-4747-a728-5bef61d4f770.png
+2025-05-04 11:21:19,878 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/29dfb9f1-7f5e-42d8-bebf-9159fd57f6e3.png
+2025-05-04 11:21:27,911 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2aa564e2-34be-49c4-8c1e-9586e77cd5b3.png
+2025-05-04 11:21:31,788 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2b04a613-521d-45fe-8ee8-e5d32bc22454.png
+2025-05-04 11:21:34,837 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2b775ec2-7bba-4e50-b6b1-aacade438eb7.png
+2025-05-04 11:21:43,946 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2c383cf8-9fd9-4d3b-a1fb-980405be57ff.png
+2025-05-04 11:21:45,496 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2c5c3fbf-1970-4869-975c-6e856e366cc4.png
+2025-05-04 11:21:46,773 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2c843614-dc2a-4c81-829f-f2391a7650a3.png
+2025-05-04 11:21:48,966 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2ca8aded-b27b-47f2-88f0-27d4b794708f.png
+2025-05-04 11:21:49,163 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2cacab51-7fa7-4ba6-b06b-2327996f2e90.png
+2025-05-04 11:21:49,504 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2cb09ebb-d5fd-4309-934f-5a230652bdf0.png
+2025-05-04 11:21:51,195 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2cd4dac4-ecaa-45dd-afab-62982926d972.png
+2025-05-04 11:21:56,477 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2d85b862-5a63-4e87-8dd1-eb269b9fa432.png
+2025-05-04 11:21:57,885 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2dab867c-9bfa-4fd8-a84a-fa8bfcc99204.png
+2025-05-04 11:22:02,067 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2e1359b1-c1ca-4435-89cc-dc86205ed7bc.png
+2025-05-04 11:22:03,740 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2e52a226-c585-44cb-81f4-8409ab84112a.png
+2025-05-04 11:22:06,629 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2e85ae7c-4ec9-41bd-bc8c-b1d9417040cd.png
+2025-05-04 11:22:17,000 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/2fdedaa6-1158-4361-bff0-2d18d5d96b78.png
+2025-05-04 11:22:19,503 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/301f766c-01c7-464e-a8a7-a5adddbe3fd1.png
+2025-05-04 11:22:22,678 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/304e23a7-efc8-45f2-8558-36387c424565.png
+2025-05-04 11:22:24,764 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/30969e22-4183-441a-a0f6-21e1c58e0433.png
+2025-05-04 11:22:27,973 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/30ce76e1-040f-41c1-8c75-b08f458bbb78.png
+2025-05-04 11:22:30,426 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/311c8b23-eade-4b84-88cb-673294bbbccd.png
+2025-05-04 11:22:31,635 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/313b02d1-cfb9-4777-9fa6-5289da5ecaca.png
+2025-05-04 11:22:36,452 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/319ddf0a-db32-4aab-834b-7c1b1c465ddf.png
+2025-05-04 11:22:41,545 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/3250975d-a3fc-45bf-b57d-efad44fa22e0.png
+2025-05-04 11:22:43,109 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/327bb590-3d55-4a3a-8399-404bdcb751fd.png
+2025-05-04 11:22:50,258 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/3303fe05-3515-4624-ade6-3f39fa92dd91.png
+2025-05-04 11:23:03,920 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/3450b5d8-da16-4def-a370-067b11286f77.png
+2025-05-04 11:23:04,667 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/34551db7-0ec0-4d3c-a1b5-6bf2321a59e1.png
+2025-05-04 11:23:13,462 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/350aa004-0a34-4f75-a9a1-70774c51a24e.png
+2025-05-04 11:23:34,788 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/36a24cf2-df43-44c7-90a2-d8f5efcdbee5.png
+2025-05-04 11:23:45,931 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/37a26a46-500f-452d-8719-af6fc6411fbc.png
+2025-05-04 11:23:46,791 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/37bdda06-ab14-4a65-b098-0b6741f5d348.png
+2025-05-04 11:23:47,315 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/37ef055c-c06d-48fa-9fa6-d93e82d04b1c.png
+2025-05-04 11:23:48,572 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/38154ec0-08dc-47d4-9ad3-e9d93011aa14.png
+2025-05-04 11:23:56,300 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/38bc1d0d-a147-45e9-9d22-7e2ab79b4ff7.png
+2025-05-04 11:24:03,734 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/39797c9a-672c-4efe-bc23-698fb0eb7a2c.png
+2025-05-04 11:24:07,311 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/39ad22ef-2ab0-4967-88e9-c50c0c537193.png
+2025-05-04 11:24:09,133 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/39da5740-b173-4e0c-8041-3b8f7760143f.png
+2025-05-04 11:24:13,063 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/3a414987-af36-4d34-b18e-c60858d8bd88.png
+2025-05-04 11:24:17,389 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/3ad88c67-00bc-40f6-affa-5ddbb9a2cc50.png
+2025-05-04 11:24:22,227 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/3b4abc29-0b24-42d3-ba70-0661ec7460f3.png
+2025-05-04 11:24:25,015 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/3baf0ee9-2514-4086-9d23-e0bde853e326.png
+2025-05-04 11:24:27,184 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/3c0d3884-a39a-4877-8849-12c3f3512d51.png
+2025-05-04 11:24:29,282 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/3c53f47f-1540-42be-9086-ae3b79b9e9c5.png
+2025-05-04 11:25:07,946 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/41209f37-57dc-4324-ac8b-4114c50c12cb.png
+2025-05-04 11:25:10,397 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/41599332-b7ef-47db-8846-3d750190085c.png
+2025-05-04 11:25:13,416 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/41a7fa0d-d0c0-49bb-aef5-96d9230e626d.png
+2025-05-04 11:25:13,669 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/41a9ff71-4a2c-4bd7-8ff8-c11ad97c7135.png
+2025-05-04 11:25:14,727 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/41c26d8a-40cd-409a-a03a-b1f8156b8b54.png
+2025-05-04 11:25:17,969 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/42084f9c-fca2-4f7b-9dc1-31bd5086ec8e.png
+2025-05-04 11:25:20,938 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/424f31dc-c6a9-4d17-ad33-5677ae2e0505.png
+2025-05-04 11:25:25,144 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/42bd62a0-7619-4d19-baf3-862901aa8a74.png
+2025-05-04 11:25:27,665 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/43130f0c-815b-4a2d-81f2-49f90e98b06b.png
+2025-05-04 11:25:29,024 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/4344f0cb-82c2-4cb8-8df3-ab5815865098.png
+2025-05-04 11:25:33,076 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/43c990bc-6a24-45b9-a028-290644d14c46.png
+2025-05-04 11:25:36,894 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/442c81dc-f20f-42c9-a713-492ded8c89e7.png
+2025-05-04 11:25:38,626 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/4481d12a-84fe-49fe-be4d-4a4c0c85ffeb.png
+2025-05-04 11:25:43,202 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/44cfda54-1965-4afe-b99a-cbf7c495ebc7.png
+2025-05-04 11:25:43,416 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/44d21bed-214b-497a-9bf2-441a56aa2948.png
+2025-05-04 11:25:51,454 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/45be7b94-80c1-4d41-8edd-a71651c480d8.png
+2025-05-04 11:25:51,660 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/45c20b57-c9b5-4e89-9493-f1e6355efd28.png
+2025-05-04 11:25:57,937 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/46409c3a-3903-44e4-b747-36eb2a7ffc11.png
+2025-05-04 11:26:04,079 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/46d43868-55ab-44c5-bb75-688c01f80d37.png
+2025-05-04 11:26:07,231 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/47016d7c-936e-4a9b-ad9e-29a735ffe644.png
+2025-05-04 11:26:09,810 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/4794cda3-ec43-4bb5-9cd4-46a0052b4f1a.png
+2025-05-04 11:26:11,050 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/47ba542e-02c5-4077-8aa3-7aa330425313.png
+2025-05-04 11:26:11,862 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/47c86380-11ff-4609-9608-c841c43f8c01.png
+2025-05-04 11:26:19,450 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/48aa6abc-6a29-4457-a97f-3ea99c1d4c34.png
+2025-05-04 11:26:24,565 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/48e3e15c-e119-4bc2-ae9f-378d3aeff944.png
+2025-05-04 11:26:29,072 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/4910b2db-7a03-4f4f-9569-d4b59e222811.png
+2025-05-04 11:26:33,227 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/495804fd-ae0c-4c73-8d9a-de3c483444a2.png
+2025-05-04 11:26:37,772 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/49f26dba-5968-4427-9c18-c064758127bc.png
+2025-05-04 11:26:41,628 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/4a44bcbf-07e0-41e8-ace8-8e1c7db0c494.png
+2025-05-04 11:26:48,040 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/4ae4f0f9-1965-4b7c-a9b2-985f4ad82552.png
+2025-05-04 11:26:54,168 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/4ba87b5e-dd9d-48ad-9fa9-6e02ac49a466.png
+2025-05-04 11:26:56,743 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/4bf841a7-f626-4bcb-b64b-d9057a755878.png
+2025-05-04 11:27:01,178 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/4ca59bb1-6e0f-4a40-b056-3f2b271280f4.png
+2025-05-04 11:27:34,560 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/501d9c79-11cf-41cb-a7e2-2081d445dc00.png
+2025-05-04 11:27:39,090 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/50b536f2-ab92-42ac-8068-6a0d9e57864b.png
+2025-05-04 11:27:42,240 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/50f6821e-7df7-4c32-8ebb-9d2afc2af606.png
+2025-05-04 11:27:53,951 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/51d025b9-ff9a-4a70-af67-4ac2b1f90c08.png
+2025-05-04 11:27:57,479 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/5202c45c-4c3e-4c07-b7a4-566cd9c0ba6a.png
+2025-05-04 11:28:07,795 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/52e2c4a7-6b8c-4509-abfa-9ced8f3ed04e.png
+2025-05-04 11:28:22,953 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/54124f6e-c527-47a6-a970-508100035f36.png
+2025-05-04 11:28:34,590 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/55063d52-0101-4db8-b666-1aed216cb995.png
+2025-05-04 11:28:37,854 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/55394253-207e-448d-8d29-903a65b70ac9.png
+2025-05-04 11:28:38,580 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/553dd210-9d07-420f-b6ce-c862987341a3.png
+2025-05-04 11:28:42,545 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/55ae6bc8-5140-4c2d-9eb4-206ce202d623.png
+2025-05-04 11:28:51,563 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/568a0374-a0fc-43f1-ac80-a625628bedd8.png
+2025-05-04 11:28:52,032 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/568da355-1e9b-47ae-a360-1db56747d005.png
+2025-05-04 11:29:07,553 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/57b38f6b-72b0-47e9-a99b-bb9a26793451.png
+2025-05-04 11:29:07,848 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/57b75da4-6fd5-42fd-b69a-6da24d5ce423.png
+2025-05-04 11:29:15,270 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/584f1c0b-0551-451e-9eab-2baf9f8beba5.png
+2025-05-04 11:29:36,355 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/5a68082e-e093-4975-a755-5a087776d736.png
+2025-05-04 11:29:39,263 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/5ac772f0-7e22-4729-a7ec-6e7cedf299cb.png
+2025-05-04 11:29:39,483 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/5ae4fcec-8401-4c00-8bfa-6e672debea02.png
+2025-05-04 11:29:46,356 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/5baa3bb7-2e70-4ca3-9e73-8c7876b99161.png
+2025-05-04 11:29:49,454 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/5bddecc4-7650-49fd-bf67-38b8f65763eb.png
+2025-05-04 11:30:10,160 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/5e00f241-96d2-4f1e-8a55-cff223a7ade2.png
+2025-05-04 11:30:18,448 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/5ee578be-84b5-45b3-89db-d4feef8958ef.png
+2025-05-04 11:30:21,117 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/5f4c59af-3bbe-4678-bf0a-979653391e4f.png
+2025-05-04 11:30:22,765 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/5f836644-2dab-4f86-95fa-171225607600.png
+2025-05-04 11:30:25,894 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/5fe1ba1c-1689-496f-af90-36128123be5e.png
+2025-05-04 11:30:30,742 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/6047dc3a-85d5-41fa-84f5-7c76d13a0d86.png
+2025-05-04 11:30:45,679 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/61c40a74-f078-4bf4-88ca-7efd884ae314.png
+2025-05-04 11:30:48,101 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/622120e5-febc-445d-b595-55461b8c07e9.png
+2025-05-04 11:30:51,794 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/62e790a9-bb0d-4fe5-b9fa-0e778d1f15ed.png
+2025-05-04 11:30:52,005 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/62fc5dd5-64b3-485a-8c4e-586d055d3fcd.png
+2025-05-04 11:31:05,057 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/641f097c-6f40-4082-b31a-1a14212c7466.png
+2025-05-04 11:31:23,221 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/6610f4f8-bbcc-4d00-9055-69307af10c48.png
+2025-05-04 11:31:30,616 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/66e85a88-e399-4151-a6b8-705003cc2214.png
+2025-05-04 11:31:45,846 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/68841b62-9996-48dd-b37a-b30d7094d6ca.png
+2025-05-04 11:31:46,072 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/6886d5ad-471e-4132-9550-92ebfa775be6.png
+2025-05-04 11:31:49,332 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/68d8f317-b5bd-4a2d-8bfa-04170c6305d0.png
+2025-05-04 11:31:49,943 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/68e1a5aa-dc87-4d3d-9886-206ebafba375.png
+2025-05-04 11:31:51,276 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/68ff44e0-7ba3-4505-805a-f5f2913346b1.png
+2025-05-04 11:31:51,505 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/690e2a97-9f0c-4d7d-ada5-fc6072d99c71.png
+2025-05-04 11:31:53,935 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/6943c5c1-118d-4d10-a641-e235537ed7b7.png
+2025-05-04 11:31:58,395 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/69a0077e-3ada-49fd-8afe-2c109b397a84.png
+2025-05-04 11:31:58,606 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/69a839d9-79ff-4119-9a03-0c38062b27e7.png
+2025-05-04 11:32:05,793 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/6a9360cf-7590-47e5-997c-e7992c8c3bd9.png
+2025-05-04 11:32:11,412 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/6b70808b-fcca-4617-8b3f-40517f0f413d.png
+2025-05-04 11:32:14,612 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/6bec65a4-06c9-4c26-bfdf-e507e85bcd00.png
+2025-05-04 11:32:34,270 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/6da8488d-cc10-4189-baa9-47f63276f005.png
+2025-05-04 11:32:42,089 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/6ed24202-667c-4160-9295-741688421cd0.png
+2025-05-04 11:32:47,365 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/6f7eecca-b1f6-4d97-836f-baa09235b265.png
+2025-05-04 11:32:50,809 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/6fe53829-e446-4e5a-8c70-baa6c52442fb.png
+2025-05-04 11:33:01,740 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/70e55f72-d5b7-402b-bd90-6e559bfe5c4a.png
+2025-05-04 11:33:11,158 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/723b79b7-8268-4657-a3ea-f9906633deec.png
+2025-05-04 11:33:13,748 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/7270e908-69a1-4211-a4d7-16f692e97a69.png
+2025-05-04 11:33:20,884 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/7338e412-46e3-4b8c-a972-92a8f40f0b48.png
+2025-05-04 11:33:26,957 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/73f8363c-567c-4cd5-a192-ec414180c97f.png
+2025-05-04 11:33:31,623 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/74425cfa-1e7d-4b5a-8e44-0b8e5bffa13e.png
+2025-05-04 11:33:37,737 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/74bbce91-c234-46de-9c3d-6b6288a49095.png
+2025-05-04 11:33:39,431 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/74ffb552-982e-4d5b-9857-fe838878935f.png
+2025-05-04 11:33:45,024 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/75986baa-c165-4969-8878-dfde5927c238.png
+2025-05-04 11:33:57,029 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/773b7f7f-8c8c-4d99-8bc7-3a6f47e4f09a.png
+2025-05-04 11:33:57,842 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/77482b57-c4e2-465b-86c6-8645f12c79f4.png
+2025-05-04 11:34:00,476 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/777982f2-adeb-4f0f-af5b-534719b551fc.png
+2025-05-04 11:34:02,224 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/77a6727d-8dc2-4951-b83a-ac41c490c28d.png
+2025-05-04 11:34:02,730 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/77c1b5df-e4b9-4964-bf3e-306301ae13e5.png
+2025-05-04 11:34:17,000 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/78ed7176-7472-4f83-b733-9d48b09d9952.png
+2025-05-04 11:34:21,209 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/79959804-0332-44b5-943d-f69dd4811b09.png
+2025-05-04 11:34:24,117 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/79fb0c8c-5bf6-4dda-86eb-ad020ae3a974.png
+2025-05-04 11:34:30,906 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/7aef1351-c270-4500-81a0-0c6d7b00c929.png
+2025-05-04 11:34:31,484 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/7b00508b-7087-4a34-af8b-67908e9f3042.png
+2025-05-04 11:34:33,842 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/7b2d4d5f-2f41-4113-aa68-a784579eea5b.png
+2025-05-04 11:34:45,389 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/7cb634f2-7440-49ba-a0fd-3b5ef4f7a6a5.png
+2025-05-04 11:34:46,014 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/7cc726b4-016b-4806-828f-0df043b31740.png
+2025-05-04 11:35:03,222 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/7ebde98a-b08a-47e9-96a1-fea993fe7f63.png
+2025-05-04 11:35:03,529 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/7ec79122-457f-4bd6-9829-87902febecae.png
+2025-05-04 11:35:08,351 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/7f348353-8b91-4209-b89d-7e348b101653.png
+2025-05-04 11:35:12,885 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/7fdbb80b-b86e-466c-a08e-5060a9c3b2e7.png
+2025-05-04 11:35:15,838 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8052df88-222e-4d76-a091-dbb087468c65.png
+2025-05-04 11:35:17,203 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/807ef2b6-6bda-4768-aee0-84176b72bc82.png
+2025-05-04 11:35:21,281 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/80c75d1b-db63-4b93-9f31-6a83dd5bebe9.png
+2025-05-04 11:35:22,289 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/81017117-e0f1-48d2-b9c5-90acaa1eb9fc.png
+2025-05-04 11:35:26,923 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/817f56e6-400c-4b1f-b01d-dfdb3cb228be.png
+2025-05-04 11:35:33,263 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8204458a-8966-457e-9325-4c032e264b48.png
+2025-05-04 11:35:33,509 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/82099f38-f9fc-4c8d-9267-279de0ce893a.png
+2025-05-04 11:35:36,450 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/824e82fa-9373-4418-aa4e-c45fe6e04aa0.png
+2025-05-04 11:35:39,329 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8299ef6b-755f-4bc4-852b-096dc134c991.png
+2025-05-04 11:35:51,313 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/841f2f86-edb6-46cb-8f6c-82d3cdc1d9dc.png
+2025-05-04 11:36:04,450 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/85ae82c0-b898-48fc-a86c-c9cb21f321e4.png
+2025-05-04 11:36:09,979 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/86732f42-8457-479a-8b91-98f49c63898c.png
+2025-05-04 11:36:11,099 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/86a7696e-f58c-452e-b385-ef23e2bbec71.png
+2025-05-04 11:36:15,753 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8704eadf-0c13-4b52-b249-da16f641561a.png
+2025-05-04 11:36:22,989 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/87d6124f-4d80-4108-8da9-915b0fdb2906.png
+2025-05-04 11:36:25,042 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8803e9bc-dea4-4c68-be97-5b62971004b8.png
+2025-05-04 11:36:29,128 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/88505728-324d-49a1-ba0a-611aa32de992.png
+2025-05-04 11:36:32,526 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/88a27c7d-377c-46b4-a13e-c98f4a84934e.png
+2025-05-04 11:36:34,590 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/88fa1fa0-3561-4397-999d-feb37de65d58.png
+2025-05-04 11:36:39,019 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/897f1372-26a6-4984-bfb3-9d0e3ce7f8ca.png
+2025-05-04 11:36:42,495 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/89c3f305-061a-495c-aab5-a44eb80f1ed6.png
+2025-05-04 11:36:44,484 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/89e3ff48-13cb-4f71-8783-9a617f7362fd.png
+2025-05-04 11:36:46,381 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8a047513-bcb3-4ef6-af17-b7bb565dc375.png
+2025-05-04 11:36:50,165 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8a5bc645-62ee-47b6-87a7-6f5b116d862b.png
+2025-05-04 11:36:53,191 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8ac7e5bd-0618-4465-bca1-76a3f51be796.png
+2025-05-04 11:36:54,303 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8add24e9-301f-40e2-b7ac-eef69b4e0140.png
+2025-05-04 11:36:59,071 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8afe0881-a4ff-43eb-916e-873be3cc94e8.png
+2025-05-04 11:36:59,511 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8b036a0f-c3bb-44c5-a683-cb2d731b6d33.png
+2025-05-04 11:37:00,462 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8b0bca48-34d6-4ca8-9af0-8fef5606e161.png
+2025-05-04 11:37:24,289 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8cab52da-0d7a-4186-839d-b30831a7ee58.png
+2025-05-04 11:37:26,876 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8d0d90e6-e30c-4347-82cd-ad8687754cfe.png
+2025-05-04 11:37:32,047 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8db2dcb7-7aec-4fed-a987-df545a4e75df.png
+2025-05-04 11:37:32,800 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8dcf7629-937d-4859-ae7b-190f6351d27b.png
+2025-05-04 11:37:33,218 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8dd39463-1864-48a9-9725-fc79d3820cc9.png
+2025-05-04 11:37:40,867 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8e4d4baa-ad7b-4d43-b488-bcc677efc934.png
+2025-05-04 11:37:43,829 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8e8e13ec-e461-4876-aba6-59fcf5a47a38.png
+2025-05-04 11:37:56,844 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/8fda384b-ff4d-44ca-887b-313c6ae4e606.png
+2025-05-04 11:37:59,601 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/903b2da4-53a7-414d-8d90-393599db043e.png
+2025-05-04 11:38:01,923 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/90777908-1de9-4e41-935e-0d08c23fa442.png
+2025-05-04 11:38:09,658 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/912ea013-cf38-4787-8956-106b2421dcc5.png
+2025-05-04 11:38:10,205 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/913b114a-ea35-4f67-9562-6bf891e889fb.png
+2025-05-04 11:38:10,788 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/913f9097-8511-4779-889e-379c2a79e95f.png
+2025-05-04 11:38:14,163 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/9195c949-8c2e-4d4f-b5d3-1bae6489113b.png
+2025-05-04 11:38:43,872 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/94cab23c-2b44-43b3-9408-732434398b3a.png
+2025-05-04 11:38:45,526 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/94f35bad-586e-4da0-96f3-97ff5f0db566.png
+2025-05-04 11:38:46,234 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/94f93d5b-ec97-47ac-848b-fb841b43f526.png
+2025-05-04 11:38:46,451 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/950de5cd-47a5-4893-a8be-ceb3a6aa4052.png
+2025-05-04 11:38:46,945 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/95251f4e-cc42-4e70-9008-1340e45d4774.png
+2025-05-04 11:38:47,211 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/9525c6ab-66ce-4245-b0f3-d5b4eabcdaef.png
+2025-05-04 11:38:49,437 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/955d03cc-8024-422a-aca6-0433c6ddce5d.png
+2025-05-04 11:38:51,660 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/95de1760-51f3-49a8-8ef1-f8b6e26cebec.png
+2025-05-04 11:38:51,889 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/95e086f3-e75e-4cc0-a914-6ac5091523b4.png
+2025-05-04 11:39:05,385 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/971e7c77-5a58-4263-935c-68c69c4b71ef.png
+2025-05-04 11:39:07,146 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/9773ba8f-5687-4d6b-b9de-a4333267ffa3.png
+2025-05-04 11:39:08,597 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/977a4f2f-752b-4ebb-9379-a525a5c2ca87.png
+2025-05-04 11:39:23,460 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/981e5b94-4b88-4512-9c27-4e0a1bf96e64.png
+2025-05-04 11:39:30,657 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/98af904e-3501-406e-a1ca-0e79766ad5ee.png
+2025-05-04 11:39:39,762 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/99b28ab5-6658-4847-9231-966566129642.png
+2025-05-04 11:39:44,479 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/99dea6bb-4d95-4162-9963-83490eb46393.png
+2025-05-04 11:39:53,597 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/9adbbb71-c4ff-48ff-8338-33191d8b6215.png
+2025-05-04 11:39:56,637 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/9b3d611b-b0ae-47a3-bcac-64f59c5a85a8.png
+2025-05-04 11:39:56,838 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/9b3dbc4a-b376-40c0-bf58-8f402a55b858.png
+2025-05-04 11:40:13,687 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/9c58dc04-4862-487e-a502-8dd8ca049499.png
+2025-05-04 11:40:18,636 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/9cf4e29c-c441-4b13-b70c-155f61cdcaf9.png
+2025-05-04 11:40:29,360 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/9db1dc6d-6aa1-4987-83b0-d35073a43bfa.png
+2025-05-04 11:40:34,000 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/9e084257-e71b-46da-9d75-74d4914e98a9.png
+2025-05-04 11:40:41,025 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/9ea45313-7701-41bb-97de-6b41375236ad.png
+2025-05-04 11:40:44,838 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/9f088687-c593-4c9f-b5e3-958277df7b3b.png
+2025-05-04 11:40:47,559 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/9f624deb-d920-4fee-a76a-54a633ea14c1.png
+2025-05-04 11:40:55,239 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a00159ce-4832-488f-bb7a-629ad1fe177e.png
+2025-05-04 11:41:01,711 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a0e39c4e-4da4-4c21-be8c-a56af2778253.png
+2025-05-04 11:41:07,370 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a16f9e6d-673b-4f99-8cd9-90bdf18adcd6.png
+2025-05-04 11:41:13,490 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a1f084a0-3c3c-4693-ab95-0f317b01c10a.png
+2025-05-04 11:41:18,009 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a244c166-449a-49ed-9299-5b1298c523e5.png
+2025-05-04 11:41:19,754 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a291a336-1236-4854-829f-181b3c5d7452.png
+2025-05-04 11:41:25,892 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a366df11-7a00-419e-a561-e008b903c6da.png
+2025-05-04 11:41:36,702 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a4b30a21-db50-4425-8870-3acd0a917b0d.png
+2025-05-04 11:41:36,911 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a4b6f5e2-c332-4648-92c8-f8aa2195e469.png
+2025-05-04 11:41:37,129 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a4c80014-eac6-4fa2-b35d-88b9ae240325.png
+2025-05-04 11:41:40,159 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a527fcae-b657-41a0-9b66-924a73a6af8f.png
+2025-05-04 11:41:41,884 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a5657c20-41cc-4cee-876c-0e17a66fa411.png
+2025-05-04 11:41:42,926 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a59565df-c97b-43eb-926c-56725f81cc84.png
+2025-05-04 11:41:53,284 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a6b2d9c8-7c02-4926-ac41-8744f7d98420.png
+2025-05-04 11:42:08,685 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a8331f5c-54f1-4984-832d-f9574830bdec.png
+2025-05-04 11:42:14,073 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/a8a9b980-5f66-49f5-bf52-f62f88923e22.png
+2025-05-04 11:42:29,177 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/aa314ff8-35ff-4444-8b40-71d31d9ebdd4.png
+2025-05-04 11:42:29,585 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/aa5bfc8b-17b8-45de-944d-edc4f006d6e2.png
+2025-05-04 11:42:32,489 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/aab3ba91-082c-4684-86a9-c1b5216b66b7.png
+2025-05-04 11:42:38,151 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/aaf3d10e-3117-4811-a22d-31353e2c3381.png
+2025-05-04 11:42:38,816 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ab091344-0ed3-4af1-8159-13bb0e6deab8.png
+2025-05-04 11:42:44,867 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ab51ed3d-3fe8-4070-b29e-5cdf362b2e48.png
+2025-05-04 11:42:48,158 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ab75d2ce-b73c-4e34-bb0c-3097e8b41fc8.png
+2025-05-04 11:42:48,788 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ab7f4366-88be-43cd-8713-0786c157ded8.png
+2025-05-04 11:42:49,425 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ab898e59-87a3-4a31-ad98-2423112f71a3.png
+2025-05-04 11:42:59,877 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ac6180d5-e34d-46f1-aace-ad95fd8c0e4a.png
+2025-05-04 11:43:01,470 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ac7eed9d-7ee1-458c-8907-9c81b50e435e.png
+2025-05-04 11:43:28,163 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/aea7b1e3-1b46-4955-a0a7-42072e833854.png
+2025-05-04 11:43:32,550 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/aefb7d84-c2ea-471e-a089-d2556b21404c.png
+2025-05-04 11:43:34,665 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/af3793f6-6fe3-4aff-8247-80d9e6f02e01.png
+2025-05-04 11:43:36,039 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/af4a4cfa-d4fc-4af1-9de1-ddd0e2d60adc.png
+2025-05-04 11:43:37,129 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/af636779-85f5-4f94-88c3-cdf7e29a6ebf.png
+2025-05-04 11:43:43,373 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/afea499e-2250-48a4-9d44-4189bcb7e217.png
+2025-05-04 11:43:51,267 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b076f700-c01e-4e8b-a991-a0aae419449a.png
+2025-05-04 11:43:56,595 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b0c12e2d-96a7-485f-b716-8c0c88c48ce1.png
+2025-05-04 11:44:02,000 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b13cbc1c-0865-4b7c-bad5-c7184dbf1dda.png
+2025-05-04 11:44:16,722 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b2a75012-6d7d-4558-828e-f693ffdd3b86.png
+2025-05-04 11:44:32,762 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b3dec37b-7975-49e9-bb7c-d7c1a0e89211.png
+2025-05-04 11:44:36,298 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b40420d1-091f-47cc-9d85-624e8c80a107.png
+2025-05-04 11:44:36,613 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b4047e52-8a38-454b-a3ae-000e59663064.png
+2025-05-04 11:44:47,361 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b4f0a39a-dc45-4394-aba1-16a5ffc3389e.png
+2025-05-04 11:44:54,218 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b5c44556-2fb0-48d2-8707-fc91ad6c9d7c.png
+2025-05-04 11:45:00,943 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b670c6c1-c0bc-463e-a7fd-d15bbcdee33a.png
+2025-05-04 11:45:06,469 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b71542af-5b77-49a3-8edd-7d66997ed6cf.png
+2025-05-04 11:45:06,720 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b719c6d9-acd5-4359-8d1a-d2bb11e6b318.png
+2025-05-04 11:45:07,628 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b737b895-1982-4271-bf56-3f7ea40f688e.png
+2025-05-04 11:45:14,303 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b7f90db8-dca7-455d-9479-220a9c9e46ae.png
+2025-05-04 11:45:19,298 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b87d895f-4865-4777-8df5-01cf051e3dcd.png
+2025-05-04 11:45:21,694 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b8c38382-e6c6-4298-a615-dd87e174c905.png
+2025-05-04 11:45:24,170 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b91142ca-c211-44ab-9475-1004aa499ce9.png
+2025-05-04 11:45:27,139 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b948d038-1244-40e4-b218-9b799aa5feac.png
+2025-05-04 11:45:28,007 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b9868ccb-7dc0-41cc-ae23-37f3994d7d34.png
+2025-05-04 11:45:30,216 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/b9a9199a-29b5-48d3-9dec-e724a9c71006.png
+2025-05-04 11:45:41,933 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/baca629b-5453-446c-99aa-43ea1de18c3f.png
+2025-05-04 11:45:44,927 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/baf761e1-a695-49c7-b303-9c59d36acca1.png
+2025-05-04 11:45:53,828 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/bc025795-486a-4fe4-b8e4-963f2f782d3e.png
+2025-05-04 11:45:57,686 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/bc72be9f-1b4e-434a-93fc-3fb960c7419a.png
+2025-05-04 11:46:08,878 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/bd66c819-69d6-4afd-9e2f-0e5b75553ab8.png
+2025-05-04 11:46:12,894 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/bdcced89-56f4-4f98-b8ec-7e6c8f31f73d.png
+2025-05-04 11:46:15,323 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/be06f89f-0f17-4b31-8460-bd446e6f754d.png
+2025-05-04 11:46:22,356 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/be53f96d-ccff-454c-ab35-6dcf53f5e5b5.png
+2025-05-04 11:46:28,842 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/bebe6f6f-1d41-4a31-8315-dcbf5af15122.png
+2025-05-04 11:46:31,162 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/bed18d25-e897-47d5-be17-236f58f10b64.png
+2025-05-04 11:46:41,706 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/bf84da56-14c7-4541-a7ce-937d8030360b.png
+2025-05-04 11:46:45,154 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/bfb8541d-a6c8-4a1f-a803-7699cdf511f3.png
+2025-05-04 11:46:45,507 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/bfc43762-d6f2-46e2-9600-d942ea35b303.png
+2025-05-04 11:46:46,553 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/bfd9ecb2-c925-4f70-bce8-16850c7452a3.png
+2025-05-04 11:46:48,841 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/bffcf758-0440-4191-a968-1b97de6abd36.png
+2025-05-04 11:46:51,886 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/c05e9141-d2f8-438a-87bc-a6bef266b7cd.png
+2025-05-04 11:47:14,393 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/c2199932-751e-4aec-bc92-7fca4a4e9e84.png
+2025-05-04 11:47:22,587 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/c2b568bf-4e48-49bf-a6d4-191f1c8d0e61.png
+2025-05-04 11:47:27,759 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/c2f89139-4578-4dc9-93c4-3755290f370d.png
+2025-05-04 11:47:42,990 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/c425060d-1ba9-49f9-a923-5bd6dfcd39a6.png
+2025-05-04 11:47:43,803 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/c432d418-30dd-4cdc-ae51-97e48e39ce31.png
+2025-05-04 11:47:50,054 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/c4751fa4-86db-42e3-ae77-6c687a9450a4.png
+2025-05-04 11:48:12,969 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/c5cfb517-c710-4420-b38d-08f4c8e9f462.png
+2025-05-04 11:48:23,180 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/c668998f-79b9-4161-9b89-87d24ad83c0d.png
+2025-05-04 11:48:44,806 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/c7bc7eba-9b98-4aa5-9106-4e51d476b0be.png
+2025-05-04 11:49:03,487 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/c8d35a4e-cb14-49a9-a56f-e7bede7c5b25.png
+2025-05-04 11:49:07,769 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/c90130e9-6150-430e-8e28-04869f6590f8.png
+2025-05-04 11:49:22,229 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ca2b9c6f-2149-4c88-81ee-4051107f3f00.png
+2025-05-04 11:49:28,379 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ca9092d6-9315-4b3c-b232-ce490e08e960.png
+2025-05-04 11:49:32,712 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/cae8e1f9-e13b-4835-8509-3a66c3c3f583.png
+2025-05-04 11:49:58,748 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/cd0840ac-1742-46de-8c07-965da68ac55a.png
+2025-05-04 11:49:59,268 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/cd2149e0-ce23-4278-8b66-5da564dc376e.png
+2025-05-04 11:50:01,650 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/cd478819-acb9-4730-9007-8e1a3cf30111.png
+2025-05-04 11:50:07,914 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/cde5b3c5-38d0-4572-8d21-c210cdfc1e92.png
+2025-05-04 11:50:10,715 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ce0cf185-ac62-453c-88a2-50727443556f.png
+2025-05-04 11:50:11,025 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ce1996ad-52cf-4421-80a6-029429d4a555.png
+2025-05-04 11:50:13,648 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ce396891-912d-416b-951f-143289624a41.png
+2025-05-04 11:50:14,526 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ce427649-9bef-47c2-b560-78c912fe75e7.png
+2025-05-04 11:50:26,402 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/cf3acbbf-3bdd-43be-abf6-28c23c61d16b.png
+2025-05-04 11:50:32,410 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/cfab38e4-db98-46c6-9a99-d413853e6348.png
+2025-05-04 11:50:38,962 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d0413da2-ef90-4bfa-a498-abf42ed4c390.png
+2025-05-04 11:50:52,489 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d1135114-420e-40e3-8ee8-904a59e4b92d.png
+2025-05-04 11:50:53,996 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d125426a-5c2e-4ce0-9f39-1c48a3fb3dd9.png
+2025-05-04 11:50:57,181 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d166bf09-7274-44e2-8698-75102a312197.png
+2025-05-04 11:50:59,381 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d1cf3514-7bfd-4f65-bd1d-9476267fcd87.png
+2025-05-04 11:51:10,876 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d2a3c942-10c6-4a62-a41f-8d5602e00884.png
+2025-05-04 11:51:16,072 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d2fc2360-65fe-42cd-b7bf-888cba6340ef.png
+2025-05-04 11:51:18,705 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d383f637-4c42-4d89-bfcd-0a57ba5d2cea.png
+2025-05-04 11:51:21,154 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d39e2b1d-2017-4f89-8550-614f78a151f3.png
+2025-05-04 11:51:24,274 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d3ed90be-851f-462e-a21f-0bdd3c33c2f2.png
+2025-05-04 11:51:25,392 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d3fc2cae-a378-49d0-a79c-e3043e06b3f5.png
+2025-05-04 11:51:39,100 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d4f312b9-5508-4073-9a1a-843ee45c225b.png
+2025-05-04 11:51:49,749 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d5a80774-86da-41e9-80d3-bf73332c7adf.png
+2025-05-04 11:52:04,557 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d70298dd-6ddc-4581-b851-aea81ca0aa03.png
+2025-05-04 11:52:15,847 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d8072311-9b9b-44f9-aac8-272f2b495bb2.png
+2025-05-04 11:52:17,692 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d832ee5f-5839-47ec-84ad-2231f9120052.png
+2025-05-04 11:52:18,077 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d83395b9-6c2e-4ba7-9439-c4912a386518.png
+2025-05-04 11:52:19,009 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d835330f-77a6-4943-a404-5a2a866d13b5.png
+2025-05-04 11:52:21,825 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d885900e-ec98-43a4-b778-c64829f61e9b.png
+2025-05-04 11:52:23,369 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d8ab0128-97a7-44f9-af3b-d25844cb8bf7.png
+2025-05-04 11:52:24,495 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d8eced7b-d6b3-4dff-a5f1-6f8776982f8d.png
+2025-05-04 11:52:33,396 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/d99e0baf-6c81-4f12-b392-63826299be73.png
+2025-05-04 11:52:40,033 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/da4a7bde-a1f6-4bc7-8905-f96a5c667533.png
+2025-05-04 11:52:44,457 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/da98a7f8-b4c4-4533-a8c5-ad2b9e06afb6.png
+2025-05-04 11:52:45,924 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/daa5f1e9-5a5e-4013-9b81-26267fcfb573.png
+2025-05-04 11:53:05,698 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/dc77a179-ef9b-4167-98e5-c28ebf4ee2ac.png
+2025-05-04 11:53:12,855 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/dd166571-a9b0-4fbb-9955-63b4001deefc.png
+2025-05-04 11:53:14,833 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/dd356517-e6cb-445e-b2f2-cd3e25486a0f.png
+2025-05-04 11:53:21,089 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/dd94acbe-4104-43da-b90b-8bbf665f8aee.png
+2025-05-04 11:53:22,532 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/dd9abee4-125f-4b14-9346-bac23c804a41.png
+2025-05-04 11:53:26,015 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/dde76430-135d-4d2c-8ecb-1839c994112e.png
+2025-05-04 11:53:32,483 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/de589e81-7b58-4ede-b7ee-5eaec5f1d65b.png
+2025-05-04 11:53:41,954 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/df30d557-8149-42dc-a9a1-b0b453d3ab81.png
+2025-05-04 11:53:43,791 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/df612606-7896-4620-8910-b9a0dc04e4b9.png
+2025-05-04 11:53:46,303 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/dfa05247-b134-4008-994d-afd4c250de5a.png
+2025-05-04 11:53:58,277 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e05eb7fe-7c46-4598-8c90-d8f94f02629b.png
+2025-05-04 11:54:05,684 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e1265b94-71f7-461e-9320-0eda3ff21150.png
+2025-05-04 11:54:09,311 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e1761851-6ea6-42a2-bb81-b7eae3dd67be.png
+2025-05-04 11:54:18,376 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e2033381-145b-4f0e-b805-815b3ac46b03.png
+2025-05-04 11:54:27,268 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e2d8c1aa-440b-475d-a2c1-78a8f210c09a.png
+2025-05-04 11:54:39,756 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e4165129-49a2-4dba-ae76-7fcbddf457af.png
+2025-05-04 11:54:44,499 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e4c9ac72-56db-44ec-977f-d51658d72360.png
+2025-05-04 11:54:47,115 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e4f0c619-5d4d-4d2c-8ffa-4c3b32017af0.png
+2025-05-04 11:54:51,566 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e56f3c56-55cb-408f-90ff-ea902d80d479.png
+2025-05-04 11:55:00,515 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e649cb8d-5be6-4627-b095-f9bd8b98966e.png
+2025-05-04 11:55:05,645 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e6f3d5c3-2b29-4c00-a094-c22c2c937b76.png
+2025-05-04 11:55:18,797 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e843e0e2-a740-4583-81f1-b8d3f2b2bb2c.png
+2025-05-04 11:55:21,401 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e8816b32-7d05-4fdb-b04e-3f14314861c4.png
+2025-05-04 11:55:22,207 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e8a1773e-c240-42b2-84fd-05f9fefdce92.png
+2025-05-04 11:55:35,940 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/e9ec0d86-b3c6-4503-b310-0683b7b3183f.png
+2025-05-04 11:55:42,626 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/eaccd101-fa60-41a2-ac58-3bafb696632f.png
+2025-05-04 11:55:50,496 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/eb9c7a6c-fc79-48ea-9cba-f231759de7c8.png
+2025-05-04 11:55:51,432 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/eba5b126-3c43-4bb8-8d92-bc07b0a9779e.png
+2025-05-04 11:55:56,787 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ec316e68-6741-4adb-8ae9-04e6c0322fb1.png
+2025-05-04 11:56:05,185 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ed3f6840-6451-4ad4-a2f4-895abfe977a5.png
+2025-05-04 11:56:15,899 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/ee7dbcf7-b044-4e98-8e3f-d25e72ce4a06.png
+2025-05-04 11:56:18,177 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/eec90db4-a412-44c5-b4b9-09dea66019c8.png
+2025-05-04 11:56:30,948 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/f02583ba-9a59-4659-8447-dd736d7cdd6a.png
+2025-05-04 11:56:53,987 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/f25dc54d-0a94-41ef-870f-31bbd14ac542.png
+2025-05-04 11:56:54,743 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/f2769fa8-d54e-4490-b23d-7d281883c044.png
+2025-05-04 11:56:57,437 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/f2b48371-3913-4c7f-b701-45656149e007.png
+2025-05-04 11:56:58,715 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/f2de3926-5dd0-4e8b-ab51-6becdb424384.png
+2025-05-04 11:57:14,250 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/f486272e-0af4-4933-9093-b5c85e5d6405.png
+2025-05-04 11:57:15,257 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/f4ac9524-76bf-4a17-a38d-d5d8974ca256.png
+2025-05-04 11:57:41,913 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/f790c40e-1610-483f-90ff-08be8ffdfb2d.png
+2025-05-04 11:57:58,114 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/f91533e1-d0d3-42fc-9299-ee267f4652fb.png
+2025-05-04 11:58:00,776 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/f96e93f6-2229-42bb-8d4a-56d52ed2442d.png
+2025-05-04 11:58:05,955 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/f9c7147c-7eac-4f00-bbfe-e8684e0b5d31.png
+2025-05-04 11:58:07,639 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/fa031e1b-0ad8-4585-8260-707b4ff47af1.png
+2025-05-04 11:58:12,723 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/faa94ece-9bec-4004-8e4b-7eccbb089ab3.png
+2025-05-04 11:58:13,795 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/fab84564-dead-4de7-b55a-69f52d83f22f.png
+2025-05-04 11:58:15,525 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/facfcfc1-b668-445c-93ff-698a1cc94102.png
+2025-05-04 11:58:16,020 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/fb0f8f23-2fb1-4a43-9952-1cffa1706901.png
+2025-05-04 11:58:16,990 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/fb39519c-1fed-4d7a-bde5-dcdab31d138d.png
+2025-05-04 11:58:18,214 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/fb4fe9f3-d02a-4bcb-870d-13a484c94ac7.png
+2025-05-04 11:58:38,670 - WARNING - No face detected in ../datasets/rgb/DiffusionDB/fefcd3a3-ae8e-494e-8763-d2af05c044e3.png

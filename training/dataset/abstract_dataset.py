@@ -69,6 +69,8 @@ class DeepfakeAbstractBaseDataset(data.Dataset):
         self.image_list = []
         self.label_list = []
         
+        print(f"Loaded {len(self.image_list)} images and {len(self.label_list)} labels for testing.")
+        
         # Set the dataset dictionary based on the mode
         if mode == 'train':
             dataset_list = config['train_dataset']
@@ -92,6 +94,7 @@ class DeepfakeAbstractBaseDataset(data.Dataset):
             one_data = config['test_dataset']
             # Test dataset should be evaluated separately. So collect only one dataset each time
             image_list, label_list, name_list = self.collect_img_and_label_for_one_dataset(one_data)
+            print(f"111 Loaded {len(image_list)} images and {len(label_list)} labels for testing.")
             if self.lmdb:
                 lmdb_path = os.path.join(config['lmdb_dir'], f"{one_data}_lmdb" if one_data not in FFpp_pool else 'FaceForensics++_lmdb')
                 self.env = lmdb.open(lmdb_path, create=False, subdir=True, readonly=True, lock=False)
@@ -157,6 +160,42 @@ class DeepfakeAbstractBaseDataset(data.Dataset):
         
         # Record video name for video-level metrics
         video_name_list = []
+        if dataset_name == "DiffusionDB":
+            # Collect all image paths from the directory
+            dataset_path = os.path.join(self.config['rgb_dir'], dataset_name)
+            print(f"Dataset path: {dataset_path}")
+            if not os.path.exists(dataset_path):
+                raise ValueError(f"Dataset path {dataset_path} does not exist!")
+
+            # Get all image files in the directory
+            image_files = sorted(glob.glob(os.path.join(dataset_path, "*.png")))
+            if len(image_files) == 0:
+                raise ValueError(f"No images found in {dataset_path}!")
+
+            # Assign a label of 1 (fake) to all images in DiffusionDB
+            label_list = [1] * len(image_files)
+            frame_path_list = image_files
+            video_name_list = [os.path.basename(img) for img in image_files]
+
+            return frame_path_list, label_list, video_name_list
+        if dataset_name == "LFW":
+            # Collect all image paths from the directory
+            dataset_path = os.path.join(self.config['rgb_dir'], dataset_name)
+            print(f"Dataset path: {dataset_path}")
+            if not os.path.exists(dataset_path):
+                raise ValueError(f"Dataset path {dataset_path} does not exist!")
+
+            # Get all image files in the directory
+            image_files = sorted(glob.glob(os.path.join(dataset_path, "*.jpg")))
+            if len(image_files) == 0:
+                raise ValueError(f"No images found in {dataset_path}!")
+
+        
+            label_list = [0] * len(image_files)
+            frame_path_list = image_files
+            video_name_list = [os.path.basename(img) for img in image_files]
+
+            return frame_path_list, label_list, video_name_list
 
         # Try to get the dataset information from the JSON file
         if not os.path.exists(self.config['dataset_json_folder']):
